@@ -1,36 +1,40 @@
 # JoanKenley-asterisk
 
-A local Asterisk sound pack built from Nortel DMS recordings, with a prompt checklist for matching future CallPilot samples. The repository name is the project title. Voice credits for individual DMS loads remain unverified.
+Asterisk English prompts assembled from Nortel DMS, CallPilot 5.0 Canadian English and BCM 4.0 recordings. The repository name is the project title. The source and PCM hash are recorded per clip. Individual voice credits remain unverified.
 
-## Prompt coverage
+## Coverage
 
-[Open the master checklist](prompts.csv). It has one row per WAV prompt ID in the official Asterisk English Core Sounds 1.6.1 archive, plus the Nortel extensions under `nortel/`. A mapped row contains the source path relative to EDRAM's `audio/` directory and the SHA-256 of the decoded PCM. The prompts in a composite announcement keep their original wording and timing.
+[The master checklist](prompts.csv) tracks all 568 WAV IDs in Asterisk English Core Sounds 1.6.1 and 94 Nortel additions.
 
-| Scope | Status | Count |
-| --- | --- | ---: |
-| Asterisk core | DMS mapping | 38 |
-| Asterisk core | Unmapped | 520 |
-| Asterisk core | Stock silence | 10 |
-| Nortel additions | Mapped | 94 |
+| Asterisk core source | IDs |
+| --- | ---: |
+| Nortel DMS | 38 |
+| CallPilot 5.0 | 56 |
+| BCM 4.0 | 47 |
+| Stock English fallback | 427 |
+| **Total** | **568** |
 
-Filter `status` to `missing` and `group` to `voicemail` for the first CallPilot review set. The checklist has 114 such rows. A candidate needs to match the Asterisk menu action and wording. Use the `core-sounds-en.txt` transcript included in the [official 1.6.1 WAV archive](https://downloads.asterisk.org/pub/telephony/sounds/releases/asterisk-core-sounds-en-wav-1.6.1.tar.gz) to see the upstream wording for each stock ID.
+Nortel recordings cover digits, teens and round tens through ninety, weekdays, months, ordinals, letters and some voicemail prompts. The 94 additional IDs include Canadian and U.S. intercepts, CLASS, call return and tone recordings. The SIT IDs use the directly decoded ESTD0AA samples and menu timing.
 
-Current recordings cover standard digits, ten through nineteen, tens up to fifty, the months, and a.m./p.m. The extra prompts include Canadian and U.S. call treatments, CLASS and call return, as well as SIT, the calling-card bong, milliwatt, and receiver-off-hook tones. Full Nortel intercepts have their own IDs. For example, `nortel/ca/vacant-code` includes a complete spoken treatment, while Asterisk's `cannot-complete-as-dialed` is a single sentence.
+The checklist marks stock silence as `stock` and the remaining stock fallback IDs as `missing`. Those IDs use the Asterisk originals in a complete build. Voicemail decisions follow the actual action called for by Asterisk, including its keys. The mapped password clips say “number sign” for the pound key. The notes record source IDs and wording differences. Prompts that depend on Asterisk-specific instructions, such as conference menus, use stock English. [Asterisk sample voicemail configuration](https://github.com/asterisk/asterisk/blob/master/configs/samples/voicemail.conf.sample)
 
-## Build and try it
+## Build the language directory
 
-Use Python 3.10 or newer and the [EDRAM audio export](https://github.com/andrew867/EDRAM/tree/8f6a2b3d157b20c6afadd1004606d5497c4e5c5a/audio). FFmpeg is needed for G.711 output. WAV-only builds use the standard library.
+Use Python 3.10 or newer. Install FFmpeg for μ-law and A-law output. The build verifies the source PCM hashes and writes a per-prompt source manifest.
 
-```sh
-python build_pack.py ../EDRAM/audio build/sounds --format wav --format ulaw --format alaw
-```
+1. Use the current [EDRAM audio export](https://github.com/andrew867/EDRAM/tree/6c19f5c65d6d55d54cc6a98ba31092436672ce15/audio).
+2. Export Canadian English from the CallPilot 5.0 language CD. [CallPilot 5.0 extraction guide](https://github.com/andrew867/CallPilotPrompts/blob/main/CALLPILOT5_FORMAT.md)
+3. Export BCM American English to `build/bcm4-en-us` and the IVR numset to `build/bcm4-mmf/numset`. [BCM extraction commands](https://github.com/andrew867/CallPilotPrompts#extract-bcm-40-audio)
+4. Download the official 1.6.1 WAV archive to fill the remaining core IDs. [Asterisk English Core Sounds](https://downloads.asterisk.org/pub/telephony/sounds/releases/asterisk-core-sounds-en-wav-1.6.1.tar.gz)
 
-Copy the resulting `en_CA_nortel` folder into the sounds directory of a lab Asterisk instance. Choose `en_CA_nortel` on a channel to use the mappings and let Asterisk [fall back to the installed English prompts](https://docs.asterisk.org/Deployment/Internationalization-and-Localization/Sound-Prompt-Searching-based-on-Channel-Language/) for the gaps. The [example dialplan](examples/extensions.conf) plays a test number using the DMS digits and plays a Canadian intercept with SIT as early media. Include its context from a lab endpoint.
+~~~sh
+python build_pack.py ../EDRAM/audio build/sounds \
+  --callpilot-audio ../CallPilotPrompts/build/callpilot5-en-ca \
+  --bcm-audio ../CallPilotPrompts/build \
+  --stock-archive ../asterisk-core-sounds-en-wav-1.6.1.tar.gz \
+  --format wav --format ulaw --format alaw
+~~~
 
-The WAVs preserve the decoded 8 kHz, 16-bit mono PCM. The raw `.ulaw` and `.alaw` files are G.711 derivatives for Asterisk. Each build verifies PCM hashes before writing, and requires a fresh language directory. The archived recordings keep the [source archive's provenance](https://github.com/andrew867/EDRAM/blob/main/data/README.md).
+The full build contains **662 prompt IDs**. Omit `--stock-archive` to let Asterisk use its installed English fallbacks. Omit either CallPilot or BCM input to build using the remaining sources. An output language directory must be new. The Asterisk archive SHA-256 is `07ad543764567ea235d3a96dcd15ecce4521855efc295de6f5443299c331ec0b`.
 
-## Source revisions
-
-- Asterisk English Core Sounds 1.6.1 WAV archive, SHA-256 `07ad543764567ea235d3a96dcd15ecce4521855efc295de6f5443299c331ec0b`. The baseline comes from its 568 WAV member names.
-- [andrew867/EDRAM at 8f6a2b3](https://github.com/andrew867/EDRAM/tree/8f6a2b3d157b20c6afadd1004606d5497c4e5c5a). The [Nortel phrase catalog](https://github.com/andrew867/EDRAM/blob/8f6a2b3d157b20c6afadd1004606d5497c4e5c5a/references/nortel-phrases.csv) identifies the numbers, time fragments and feature prompts.
-- [CallPilotPrompts](https://github.com/andrew867/CallPilotPrompts) tracks factory prompt formats and conversion.
+Copy `en_CA_nortel` into the sounds directory on an Asterisk instance and choose that language on a channel. The [example dialplan](examples/extensions.conf) plays a test number and a Canadian intercept. The built language directory contains `manifest.json` and, with the stock archive, its original license and credits. Vendor recordings and generated audio remain local. [Asterisk language fallback order](https://docs.asterisk.org/Deployment/Internationalization-and-Localization/Sound-Prompt-Searching-based-on-Channel-Language/)

@@ -1,663 +1,663 @@
-prompt,scope,group,status,source_wav,pcm_sha256,notes
-activated,core,dialplan,missing,,,
-added,core,dialplan,missing,,,
-agent-alreadyon,core,queues-and-agents,missing,,,
-agent-incorrect,core,queues-and-agents,missing,,,
-agent-loggedoff,core,queues-and-agents,missing,,,
-agent-loginok,core,queues-and-agents,missing,,,
-agent-newlocation,core,queues-and-agents,missing,,,
-agent-pass,core,queues-and-agents,missing,,,
-agent-user,core,queues-and-agents,missing,,,
-all-circuits-busy-now,core,dialplan,missing,,,
-ascending-2tone,core,dialplan,missing,,,
-astcc-followed-by-the-pound-key,core,dialplan,missing,,,
-at-tone-time-exactly,core,dialplan,missing,,,
-auth-incorrect,core,dialplan,missing,,,
-auth-thankyou,core,dialplan,missing,,,
-basic-pbx-ivr-main,core,dialplan,missing,,,
-beep,core,dialplan,missing,,,
-beeperr,core,dialplan,missing,,,
-call-forwarding,core,dialplan,missing,,,
-call-fwd-no-ans,core,dialplan,missing,,,
-call-fwd-on-busy,core,dialplan,missing,,,
-call-fwd-unconditional,core,dialplan,missing,,,
-call-waiting,core,dialplan,missing,,,
-calling,core,dialplan,missing,,,
-cancelled,core,dialplan,missing,,,
-cannot-complete-as-dialed,core,dialplan,missing,,,Related DMS treatment available at nortel/us/vacant-code or nortel/ca/vacant-code. The longer wording stays under its own name.
-check-number-dial-again,core,dialplan,missing,,,
-conf-adminmenu,core,conferencing,missing,,,
-conf-adminmenu-162,core,conferencing,missing,,,
-conf-adminmenu-18,core,conferencing,missing,,,
-conf-adminmenu-menu8,core,conferencing,missing,,,
-conf-enteringno,core,conferencing,missing,,,
-conf-errormenu,core,conferencing,missing,,,
-conf-extended,core,conferencing,missing,,,
-conf-full,core,conferencing,missing,,,
-conf-getchannel,core,conferencing,missing,,,
-conf-getconfno,core,conferencing,missing,,,
-conf-getpin,core,conferencing,missing,,,
-conf-hasjoin,core,conferencing,missing,,,
-conf-hasleft,core,conferencing,missing,,,
-conf-invalid,core,conferencing,missing,,,
-conf-invalidpin,core,conferencing,missing,,,
-conf-kicked,core,conferencing,missing,,,
-conf-leaderhasleft,core,conferencing,missing,,,
-conf-locked,core,conferencing,missing,,,
-conf-lockednow,core,conferencing,missing,,,
-conf-muted,core,conferencing,missing,,,
-conf-noempty,core,conferencing,missing,,,
-conf-nonextended,core,conferencing,missing,,,
-conf-now-muted,core,conferencing,missing,,,
-conf-now-recording,core,conferencing,missing,,,
-conf-now-unmuted,core,conferencing,missing,,,
-conf-onlyone,core,conferencing,missing,,,
-conf-onlyperson,core,conferencing,missing,,,
-conf-otherinparty,core,conferencing,missing,,,
-conf-placeintoconf,core,conferencing,missing,,,
-conf-roll-callcomplete,core,conferencing,missing,,,
-conf-thereare,core,conferencing,missing,,,
-conf-unlockednow,core,conferencing,missing,,,
-conf-unmuted,core,conferencing,missing,,,
-conf-usermenu,core,conferencing,missing,,,
-conf-usermenu-162,core,conferencing,missing,,,
-conf-userswilljoin,core,conferencing,missing,,,
-conf-userwilljoin,core,conferencing,missing,,,
-conf-waitforleader,core,conferencing,missing,,,
-confbridge-begin-glorious-a,core,conferencing,missing,,,
-confbridge-begin-glorious-b,core,conferencing,missing,,,
-confbridge-begin-glorious-c,core,conferencing,missing,,,
-confbridge-begin-leader,core,conferencing,missing,,,
-confbridge-binaural-off,core,conferencing,missing,,,
-confbridge-binaural-on,core,conferencing,missing,,,
-confbridge-conf-begin,core,conferencing,missing,,,
-confbridge-conf-end,core,conferencing,missing,,,
-confbridge-dec-list-vol-in,core,conferencing,missing,,,
-confbridge-dec-list-vol-out,core,conferencing,missing,,,
-confbridge-dec-talk-vol-in,core,conferencing,missing,,,
-confbridge-dec-talk-vol-out,core,conferencing,missing,,,
-confbridge-has-joined,core,conferencing,missing,,,
-confbridge-has-left,core,conferencing,missing,,,
-confbridge-inc-list-vol-in,core,conferencing,missing,,,
-confbridge-inc-list-vol-out,core,conferencing,missing,,,
-confbridge-inc-talk-vol-in,core,conferencing,missing,,,
-confbridge-inc-talk-vol-out,core,conferencing,missing,,,
-confbridge-invalid,core,conferencing,missing,,,
-confbridge-join,core,conferencing,missing,,,
-confbridge-leave,core,conferencing,missing,,,
-confbridge-leave-in,core,conferencing,missing,,,
-confbridge-leave-out,core,conferencing,missing,,,
-confbridge-lock-extended,core,conferencing,missing,,,
-confbridge-lock-in,core,conferencing,missing,,,
-confbridge-lock-no-join,core,conferencing,missing,,,
-confbridge-lock-out,core,conferencing,missing,,,
-confbridge-locked,core,conferencing,missing,,,
-confbridge-menu-exit-in,core,conferencing,missing,,,
-confbridge-menu-exit-out,core,conferencing,missing,,,
-confbridge-mute-extended,core,conferencing,missing,,,
-confbridge-mute-in,core,conferencing,missing,,,
-confbridge-mute-out,core,conferencing,missing,,,
-confbridge-muted,core,conferencing,missing,,,
-confbridge-only-one,core,conferencing,missing,,,
-confbridge-only-participant,core,conferencing,missing,,,
-confbridge-participants,core,conferencing,missing,,,
-confbridge-pin,core,conferencing,missing,,,
-confbridge-pin-bad,core,conferencing,missing,,,
-confbridge-remove-last-in,core,conferencing,missing,,,
-confbridge-remove-last-out,core,conferencing,missing,,,
-confbridge-removed,core,conferencing,missing,,,
-confbridge-rest-list-vol-in,core,conferencing,missing,,,
-confbridge-rest-list-vol-out,core,conferencing,missing,,,
-confbridge-rest-talk-vol-in,core,conferencing,missing,,,
-confbridge-rest-talk-vol-out,core,conferencing,missing,,,
-confbridge-there-are,core,conferencing,missing,,,
-confbridge-unlocked,core,conferencing,missing,,,
-confbridge-unmuted,core,conferencing,missing,,,
-de-activated,core,dialplan,missing,,,
-demo-abouttotry,core,dialplan,missing,,,
-demo-congrats,core,dialplan,missing,,,
-demo-echodone,core,dialplan,missing,,,
-demo-echotest,core,dialplan,missing,,,
-demo-enterkeywords,core,dialplan,missing,,,
-demo-instruct,core,dialplan,missing,,,
-demo-moreinfo,core,dialplan,missing,,,
-demo-nogo,core,dialplan,missing,,,
-demo-nomatch,core,dialplan,missing,,,
-demo-thanks,core,dialplan,missing,,,
-descending-2tone,core,dialplan,missing,,,
-dictate/both_help,core,dialplan,missing,,,
-dictate/enter_filename,core,dialplan,missing,,,
-dictate/forhelp,core,dialplan,missing,,,
-dictate/pause,core,dialplan,missing,,,
-dictate/paused,core,dialplan,missing,,,
-dictate/play_help,core,dialplan,missing,,,
-dictate/playback,core,dialplan,missing,,,
-dictate/playback_mode,core,dialplan,missing,,,
-dictate/record,core,dialplan,missing,,,
-dictate/record_help,core,dialplan,missing,,,
-dictate/record_mode,core,dialplan,missing,,,
-dictate/truncating_audio,core,dialplan,missing,,,
-digits/0,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_47.wav,fb40b45591cc2984ac08a198dc1447c730618d6f31c1093b5c2fa1a8d125f274,ESTD0AA standard digit ENG0
-digits/1,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_48.wav,00057fdb9672fb3c2b9bf701897f1f300dbaf4287f75887137ac82e75f7b1758,ESTD0AA standard digit ENG1
-digits/10,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_37.wav,bcf81420ca0fb83d49f99bf732231e3f214ad0f92cd67fd632dd668f0ad80cdd,"EARDT0JB spoken number 10, Nortel p. 17-69"
-digits/11,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_38.wav,b7a5b6c9fff2dc2a7c6704790af902bedd0496b9c703d611a4e77f33074ed973,"EARDT0JB spoken number 11, Nortel p. 17-69"
-digits/12,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_39.wav,30043ca31a9a6fb0fb6e57f7c17903eed4263029ca80c64618fb6b6ef8873c93,"EARDT0JB spoken number 12, Nortel p. 17-69"
-digits/13,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_40.wav,c027e6b035410391c57ebbd58582505c5497681a6551c019508bdfb385635852,"EARDT0JB spoken number 13, Nortel p. 17-69"
-digits/14,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_41.wav,73d788130c4f7888924a28a1f432130ae0396ab7734b5517b0e8c7a23939766b,"EARDT0JB spoken number 14, Nortel p. 17-69"
-digits/15,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_42.wav,e41c69d315150e8e1a33166db0fe6080801917e983e51e0582b3cf510468c7a9,"EARDT0JB spoken number 15, Nortel p. 17-69"
-digits/16,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_43.wav,ad6e3562855ac1a29b43b1a6d4ceabac9ac17020cd6ac54449970826887a59a9,"EARDT0JB spoken number 16, Nortel p. 17-69"
-digits/17,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_44.wav,5add19ce86d2f30117ae67d21cf63f53c70a19e8342c929a4a57c4ff4f1c4717,"EARDT0JB spoken number 17, Nortel p. 17-69"
-digits/18,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_45.wav,66c866d772ccf535496ae7ab36baf9835840ac5b4ee12974b97aa358492a0864,"EARDT0JB spoken number 18, Nortel p. 17-70"
-digits/19,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_46.wav,77f37adb76c3ec6d4984a1dc608eacf881400ca95d4f7fc052e816375dd67dce,"EARDT0JB spoken number 19, Nortel p. 17-70"
-digits/2,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_49.wav,1984a2b507061ab9cfa10bc6f191cc16a2083c15ade48fbc5c270be44d9dbc41,ESTD0AA standard digit ENG2
-digits/20,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_47.wav,19b687818ef59faf41718849f15e87146eef657fa263b6aebf8f911aa35b49e6,"EARDT0JB spoken number 20, Nortel p. 17-70"
-digits/3,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_50.wav,3333d728cf85cc158b7805b238ee7b002ead52f8ff30f4669caca96047574786,ESTD0AA standard digit ENG3
-digits/30,core,numbers-and-dates,mapped,eardt0jb/bank_01/phrase_10.wav,23eb63bd2c3a15f8214a61ace5f2e942edbe9e58b94e88bfd14c15b95718b194,"EARDT0JB spoken number 30, Nortel p. 17-71"
-digits/4,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_51.wav,0af15c5cc6067be13f131cee3a63ce4c7b95779be5bcbcee5276884a762e5fc1,ESTD0AA standard digit ENG4
-digits/40,core,numbers-and-dates,mapped,eardt0jb/bank_01/phrase_20.wav,b507fbb0f2f970cb832a3d52718040c82f9065c44b75acf06cbc6799d2035e23,"EARDT0JB spoken number 40, Nortel p. 17-72"
-digits/5,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_52.wav,8ec8abcdc289be5989b26357970816e3c90bba564a74c61b5f20bec9b296f26d,ESTD0AA standard digit ENG5
-digits/50,core,numbers-and-dates,mapped,eardt0jb/bank_01/phrase_30.wav,4ca353b7869091f469083f223d0e21a0f4f5f7090ba8b8f7f5ef0ada4bf976b0,"EARDT0JB spoken number 50, Nortel p. 17-72"
-digits/6,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_53.wav,18d072d65790a6a78d9b74c76c3c7cee87d394fed8051f86270ddbfb74bb9fdd,ESTD0AA standard digit ENG6
-digits/60,core,numbers-and-dates,missing,,,
-digits/7,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_54.wav,8e2e73b625dac051b9dd36297522ddbc43b868b3bf661b5e5cca0edd63b777aa,ESTD0AA standard digit ENG7
-digits/70,core,numbers-and-dates,missing,,,
-digits/8,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_55.wav,c628df3f85fa76995f5020102edd215b23f33c1c1331254f978a8d6a45b8abe6,ESTD0AA standard digit ENG8
-digits/80,core,numbers-and-dates,missing,,,
-digits/9,core,numbers-and-dates,mapped,estd0aa/bank_00/phrase_56.wav,c6a620eb939e7369e85bf951e4f1ff4ae933afa99196002bbaa57e25271f5987,ESTD0AA standard digit ENG9
-digits/90,core,numbers-and-dates,missing,,,
-digits/a-m,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_16.wav,c925d1a70a38351ebff206c13bec38b03933ddfebec03d058c2e8c6d0aea611d,"EARDT0JB time-of-day fragment, Nortel p. 17-68"
-digits/at,core,numbers-and-dates,missing,,,
-digits/billion,core,numbers-and-dates,missing,,,
-digits/day-0,core,numbers-and-dates,missing,,,
-digits/day-1,core,numbers-and-dates,missing,,,
-digits/day-2,core,numbers-and-dates,missing,,,
-digits/day-3,core,numbers-and-dates,missing,,,
-digits/day-4,core,numbers-and-dates,missing,,,
-digits/day-5,core,numbers-and-dates,missing,,,
-digits/day-6,core,numbers-and-dates,missing,,,
-digits/dollars,core,numbers-and-dates,missing,,,
-digits/h-1,core,numbers-and-dates,missing,,,
-digits/h-10,core,numbers-and-dates,missing,,,
-digits/h-11,core,numbers-and-dates,missing,,,
-digits/h-12,core,numbers-and-dates,missing,,,
-digits/h-13,core,numbers-and-dates,missing,,,
-digits/h-14,core,numbers-and-dates,missing,,,
-digits/h-15,core,numbers-and-dates,missing,,,
-digits/h-16,core,numbers-and-dates,missing,,,
-digits/h-17,core,numbers-and-dates,missing,,,
-digits/h-18,core,numbers-and-dates,missing,,,
-digits/h-19,core,numbers-and-dates,missing,,,
-digits/h-2,core,numbers-and-dates,missing,,,
-digits/h-20,core,numbers-and-dates,missing,,,
-digits/h-3,core,numbers-and-dates,missing,,,
-digits/h-30,core,numbers-and-dates,missing,,,
-digits/h-4,core,numbers-and-dates,missing,,,
-digits/h-40,core,numbers-and-dates,missing,,,
-digits/h-5,core,numbers-and-dates,missing,,,
-digits/h-50,core,numbers-and-dates,missing,,,
-digits/h-6,core,numbers-and-dates,missing,,,
-digits/h-60,core,numbers-and-dates,missing,,,
-digits/h-7,core,numbers-and-dates,missing,,,
-digits/h-70,core,numbers-and-dates,missing,,,
-digits/h-8,core,numbers-and-dates,missing,,,
-digits/h-80,core,numbers-and-dates,missing,,,
-digits/h-9,core,numbers-and-dates,missing,,,
-digits/h-90,core,numbers-and-dates,missing,,,
-digits/h-billion,core,numbers-and-dates,missing,,,
-digits/h-hundred,core,numbers-and-dates,missing,,,
-digits/h-million,core,numbers-and-dates,missing,,,
-digits/h-thousand,core,numbers-and-dates,missing,,,
-digits/hundred,core,numbers-and-dates,missing,,,
-digits/million,core,numbers-and-dates,missing,,,
-digits/minus,core,numbers-and-dates,missing,,,
-digits/mon-0,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_04.wav,5f4ccb7c0278eadcaf9860bfd14459614d8a767f0c88877e938a55b145e3ad27,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-1,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_05.wav,54948a2ca62058c81a773c23422ee9df8fcf092d57984bf2228169adc04f3b93,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-10,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_14.wav,54478d4b2f799c52d398995375d1ab66775d0d73e8bb6e6fe7b88798dc31fa8b,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-11,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_15.wav,12d81c616f111858cc7682b61b3357925f346f308f4b8ab8e45c34b699de46cd,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-2,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_06.wav,b3bb8ec37f89293f9975f24c456d8b1739935a1f17fdaf0d5c6f4b476d4a2760,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-3,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_07.wav,6fe4b2d7df60d6c78b0509f6cedda6191e8d425522aa5d53a4b4cba9367505a1,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-4,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_08.wav,a4f1328f591b576f13ae83db4d018786b0ef6fd583ae7343cb8bd1adf52c8bdd,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-5,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_09.wav,086f448ce8a68fc931b0e9bd5ab5e9a4c50249df86325f02b33a051cb8df12ac,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-6,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_10.wav,ffb5acf88d90cab7c6bb23a90729efd134462c2b906221ea783e1286e695ebcb,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-7,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_11.wav,698e6e6951d0568690d86a8cc0b71efe43a9a1579d5990046cc44f07ed14d7ee,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-8,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_12.wav,8624ce35ac9d05a250593b271f41a3d06ce26be6fa18d96916059c5ef45c6f08,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/mon-9,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_13.wav,0d473075c64caa8c9e08248b41c5db176291bc6bf15393ab083807c2aa05e442,"EARDT0JB month fragment, Nortel p. 17-68"
-digits/oclock,core,numbers-and-dates,missing,,,
-digits/oh,core,numbers-and-dates,missing,,,
-digits/p-m,core,numbers-and-dates,mapped,eardt0jb/bank_00/phrase_17.wav,d1d88ce6314ca584ac821f33dc2953737e6049319104cbeee1966a406218ed2a,"EARDT0JB time-of-day fragment, Nortel p. 17-68"
-digits/pound,core,numbers-and-dates,missing,,,
-digits/star,core,numbers-and-dates,missing,,,
-digits/thousand,core,numbers-and-dates,missing,,,
-digits/today,core,numbers-and-dates,missing,,,
-digits/tomorrow,core,numbers-and-dates,missing,,,
-digits/yesterday,core,numbers-and-dates,missing,,,
-dir-first,core,dialplan,missing,,,
-dir-firstlast,core,dialplan,missing,,,
-dir-instr,core,dialplan,missing,,,
-dir-intro,core,dialplan,missing,,,
-dir-intro-fn,core,dialplan,missing,,,
-dir-last,core,dialplan,missing,,,
-dir-multi1,core,dialplan,missing,,,
-dir-multi2,core,dialplan,missing,,,
-dir-multi3,core,dialplan,missing,,,
-dir-multi9,core,dialplan,missing,,,
-dir-nomatch,core,dialplan,missing,,,
-dir-nomore,core,dialplan,missing,,,
-dir-pls-enter,core,dialplan,missing,,,
-dir-usingkeypad,core,dialplan,missing,,,
-dir-welcome,core,dialplan,missing,,,
-disabled,core,dialplan,missing,,,
-do-not-disturb,core,dialplan,missing,,,
-enabled,core,dialplan,missing,,,
-enter-num-blacklist,core,dialplan,missing,,,
-entr-num-rmv-blklist,core,dialplan,missing,,,
-extension,core,dialplan,missing,,,
-feature-not-avail-line,core,dialplan,missing,,,
-followme/call-from,core,dialplan,missing,,,
-followme/no-recording,core,dialplan,missing,,,
-followme/options,core,dialplan,missing,,,
-followme/pls-hold-while-try,core,dialplan,missing,,,
-followme/sorry,core,dialplan,missing,,,
-followme/status,core,dialplan,missing,,,
-for,core,dialplan,missing,,,
-from-unknown-caller,core,dialplan,missing,,,
-goodbye,core,dialplan,missing,,,
-hello,core,dialplan,missing,,,
-hello-world,core,dialplan,missing,,,
-hours,core,dialplan,missing,,,
-if-correct-press,core,dialplan,missing,,,
-im-sorry,core,dialplan,missing,,,
-info-about-last-call,core,dialplan,missing,,,
-invalid,core,dialplan,missing,,,
-is,core,dialplan,missing,,,
-is-in-use,core,dialplan,missing,,,
-is-set-to,core,dialplan,missing,,,
-letters/a,core,letters-and-phonetics,missing,,,
-letters/ascii123,core,letters-and-phonetics,missing,,,
-letters/ascii124,core,letters-and-phonetics,missing,,,
-letters/ascii125,core,letters-and-phonetics,missing,,,
-letters/ascii126,core,letters-and-phonetics,missing,,,
-letters/ascii34,core,letters-and-phonetics,missing,,,
-letters/ascii36,core,letters-and-phonetics,missing,,,
-letters/ascii37,core,letters-and-phonetics,missing,,,
-letters/ascii38,core,letters-and-phonetics,missing,,,
-letters/ascii39,core,letters-and-phonetics,missing,,,
-letters/ascii40,core,letters-and-phonetics,missing,,,
-letters/ascii41,core,letters-and-phonetics,missing,,,
-letters/ascii42,core,letters-and-phonetics,missing,,,
-letters/ascii44,core,letters-and-phonetics,missing,,,
-letters/ascii58,core,letters-and-phonetics,missing,,,
-letters/ascii59,core,letters-and-phonetics,missing,,,
-letters/ascii60,core,letters-and-phonetics,missing,,,
-letters/ascii62,core,letters-and-phonetics,missing,,,
-letters/ascii63,core,letters-and-phonetics,missing,,,
-letters/ascii91,core,letters-and-phonetics,missing,,,
-letters/ascii92,core,letters-and-phonetics,missing,,,
-letters/ascii93,core,letters-and-phonetics,missing,,,
-letters/ascii94,core,letters-and-phonetics,missing,,,
-letters/ascii95,core,letters-and-phonetics,missing,,,
-letters/ascii96,core,letters-and-phonetics,missing,,,
-letters/asterisk,core,letters-and-phonetics,missing,,,
-letters/at,core,letters-and-phonetics,missing,,,
-letters/b,core,letters-and-phonetics,missing,,,
-letters/c,core,letters-and-phonetics,missing,,,
-letters/d,core,letters-and-phonetics,missing,,,
-letters/dash,core,letters-and-phonetics,missing,,,
-letters/dollar,core,letters-and-phonetics,missing,,,
-letters/dot,core,letters-and-phonetics,missing,,,
-letters/e,core,letters-and-phonetics,missing,,,
-letters/equals,core,letters-and-phonetics,missing,,,
-letters/exclaimation-point,core,letters-and-phonetics,missing,,,
-letters/f,core,letters-and-phonetics,missing,,,
-letters/g,core,letters-and-phonetics,missing,,,
-letters/h,core,letters-and-phonetics,missing,,,
-letters/i,core,letters-and-phonetics,missing,,,
-letters/j,core,letters-and-phonetics,missing,,,
-letters/k,core,letters-and-phonetics,missing,,,
-letters/l,core,letters-and-phonetics,missing,,,
-letters/m,core,letters-and-phonetics,missing,,,
-letters/n,core,letters-and-phonetics,missing,,,
-letters/o,core,letters-and-phonetics,missing,,,
-letters/p,core,letters-and-phonetics,missing,,,
-letters/plus,core,letters-and-phonetics,missing,,,
-letters/q,core,letters-and-phonetics,missing,,,
-letters/r,core,letters-and-phonetics,missing,,,
-letters/s,core,letters-and-phonetics,missing,,,
-letters/slash,core,letters-and-phonetics,missing,,,
-letters/space,core,letters-and-phonetics,missing,,,
-letters/t,core,letters-and-phonetics,missing,,,
-letters/u,core,letters-and-phonetics,missing,,,
-letters/v,core,letters-and-phonetics,missing,,,
-letters/w,core,letters-and-phonetics,missing,,,
-letters/x,core,letters-and-phonetics,missing,,,
-letters/y,core,letters-and-phonetics,missing,,,
-letters/z,core,letters-and-phonetics,missing,,,
-letters/zed,core,letters-and-phonetics,missing,,,
-location,core,dialplan,missing,,,
-lowercase,core,dialplan,missing,,,
-minute,core,dialplan,missing,,,
-minutes,core,dialplan,missing,,,
-num-was-successfully,core,dialplan,missing,,,
-number,core,dialplan,missing,,,
-number-not-answering,core,dialplan,missing,,,
-one-moment-please,core,dialplan,missing,,,
-pbx-invalid,core,dialplan,missing,,,
-pbx-invalidpark,core,dialplan,missing,,,
-pbx-parkingfailed,core,dialplan,missing,,,
-pbx-transfer,core,dialplan,missing,,,
-phonetic/9_p,core,letters-and-phonetics,missing,,,
-phonetic/a_p,core,letters-and-phonetics,missing,,,
-phonetic/b_p,core,letters-and-phonetics,missing,,,
-phonetic/c_p,core,letters-and-phonetics,missing,,,
-phonetic/d_p,core,letters-and-phonetics,missing,,,
-phonetic/e_p,core,letters-and-phonetics,missing,,,
-phonetic/f_p,core,letters-and-phonetics,missing,,,
-phonetic/g_p,core,letters-and-phonetics,missing,,,
-phonetic/h_p,core,letters-and-phonetics,missing,,,
-phonetic/i_p,core,letters-and-phonetics,missing,,,
-phonetic/j_p,core,letters-and-phonetics,missing,,,
-phonetic/k_p,core,letters-and-phonetics,missing,,,
-phonetic/l_p,core,letters-and-phonetics,missing,,,
-phonetic/m_p,core,letters-and-phonetics,missing,,,
-phonetic/n_p,core,letters-and-phonetics,missing,,,
-phonetic/o_p,core,letters-and-phonetics,missing,,,
-phonetic/p_p,core,letters-and-phonetics,missing,,,
-phonetic/q_p,core,letters-and-phonetics,missing,,,
-phonetic/r_p,core,letters-and-phonetics,missing,,,
-phonetic/s_p,core,letters-and-phonetics,missing,,,
-phonetic/t_p,core,letters-and-phonetics,missing,,,
-phonetic/u_p,core,letters-and-phonetics,missing,,,
-phonetic/v_p,core,letters-and-phonetics,missing,,,
-phonetic/w_p,core,letters-and-phonetics,missing,,,
-phonetic/x_p,core,letters-and-phonetics,missing,,,
-phonetic/y_p,core,letters-and-phonetics,missing,,,
-phonetic/z_p,core,letters-and-phonetics,missing,,,
-please-try-again,core,dialplan,missing,,,
-please-try-call-later,core,dialplan,missing,,,
-pls-hold-while-try,core,dialplan,missing,,,
-pm-invalid-option,core,dialplan,missing,,,
-priv-callee-options,core,dialplan,missing,,,
-priv-callpending,core,dialplan,missing,,,
-priv-introsaved,core,dialplan,missing,,,
-priv-recordintro,core,dialplan,missing,,,
-privacy-incorrect,core,dialplan,missing,,,
-privacy-prompt,core,dialplan,missing,,,
-privacy-thankyou,core,dialplan,missing,,,
-privacy-to-blacklist-last-caller,core,dialplan,missing,,,
-privacy-unident,core,dialplan,missing,,,
-queue-callswaiting,core,queues-and-agents,missing,,,
-queue-holdtime,core,queues-and-agents,missing,,,
-queue-less-than,core,queues-and-agents,missing,,,
-queue-minute,core,queues-and-agents,missing,,,
-queue-minutes,core,queues-and-agents,missing,,,
-queue-periodic-announce,core,queues-and-agents,missing,,,
-queue-quantity1,core,queues-and-agents,missing,,,
-queue-quantity2,core,queues-and-agents,missing,,,
-queue-reporthold,core,queues-and-agents,missing,,,
-queue-seconds,core,queues-and-agents,missing,,,
-queue-thankyou,core,queues-and-agents,missing,,,
-queue-thereare,core,queues-and-agents,missing,,,
-queue-youarenext,core,queues-and-agents,missing,,,
-removed,core,dialplan,missing,,,
-screen-callee-options,core,dialplan,missing,,,
-second,core,dialplan,missing,,,
-seconds,core,dialplan,missing,,,
-silence/1,core,silence,stock,,,
-silence/10,core,silence,stock,,,
-silence/2,core,silence,stock,,,
-silence/3,core,silence,stock,,,
-silence/4,core,silence,stock,,,
-silence/5,core,silence,stock,,,
-silence/6,core,silence,stock,,,
-silence/7,core,silence,stock,,,
-silence/8,core,silence,stock,,,
-silence/9,core,silence,stock,,,
-simul-call-limit-reached,core,dialplan,missing,,,
-something-terribly-wrong,core,dialplan,missing,,,
-sorry,core,dialplan,missing,,,
-sorry-youre-having-problems,core,dialplan,missing,,,
-speed-dial,core,dialplan,missing,,,
-speed-dial-empty,core,dialplan,missing,,,
-spy-agent,core,dialplan,missing,,,
-spy-console,core,dialplan,missing,,,
-spy-dahdi,core,dialplan,missing,,,
-spy-h323,core,dialplan,missing,,,
-spy-iax,core,dialplan,missing,,,
-spy-iax2,core,dialplan,missing,,,
-spy-jingle,core,dialplan,missing,,,
-spy-local,core,dialplan,missing,,,
-spy-mgcp,core,dialplan,missing,,,
-spy-misdn,core,dialplan,missing,,,
-spy-mobile,core,dialplan,missing,,,
-spy-nbs,core,dialplan,missing,,,
-spy-sip,core,dialplan,missing,,,
-spy-skinny,core,dialplan,missing,,,
-spy-unistim,core,dialplan,missing,,,
-spy-usbradio,core,dialplan,missing,,,
-spy-zap,core,dialplan,missing,,,
-ss-noservice,core,dialplan,missing,,,Related DMS treatment available at nortel/ca/number-not-in-service. The longer wording stays under its own name.
-telephone-number,core,dialplan,missing,,,
-time,core,dialplan,missing,,,
-to-call-this-number,core,dialplan,missing,,,
-to-extension,core,dialplan,missing,,,
-to-listen-to-it,core,dialplan,missing,,,
-to-rerecord-it,core,dialplan,missing,,,
-transfer,core,dialplan,missing,,,
-tt-allbusy,core,dialplan,missing,,,
-tt-monkeys,core,dialplan,missing,,,
-tt-monkeysintro,core,dialplan,missing,,,
-tt-somethingwrong,core,dialplan,missing,,,
-tt-weasels,core,dialplan,missing,,,
-unidentified-no-callback,core,dialplan,missing,,,
-uppercase,core,dialplan,missing,,,
-vm-Cust1,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Cust2,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Cust3,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Cust4,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Cust5,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Family,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Friends,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-INBOX,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Old,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Urgent,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-Work,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-advopts,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-and,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-calldiffnum,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-changeto,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-delete,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-deleted,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-dialout,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-duration,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-enter-num-to-call,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-extension,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-first,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-for,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-forward,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-forward-multiple,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-forwardoptions,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-from,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-from-extension,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-from-phonenumber,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-goodbye,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-helpexit,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-incorrect,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-incorrect-mailbox,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-instructions,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-intro,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-invalid-password,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-invalidpassword,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-isonphone,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-isunavail,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-last,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-leavemsg,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-login,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-mailboxfull,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-marked-nonurgent,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-marked-urgent,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-message,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-messages,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-minutes,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-mismatch,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-msgforwarded,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-msginstruct,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-msgsaved,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-newpassword,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-newuser,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-next,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-no,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-nobodyavail,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-nobox,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-nomore,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-nonumber,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-num-i-have,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-onefor,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-onefor-full,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-options,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-opts,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-opts-full,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-passchanged,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-password,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-pls-try-again,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-press,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-prev,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-reachoper,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-rec-busy,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-rec-name,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-rec-temp,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-rec-unv,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-received,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-record-prepend,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-reenterpassword,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-repeat,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-review,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-review-nonurgent,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-review-urgent,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-saved,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-savedto,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-savefolder,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-savemessage,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-saveoper,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-sorry,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-star-cancel,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-starmain,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tempgreetactive,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tempgreeting,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tempgreeting2,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tempremoved,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-then-pound,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-theperson,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tmpexists,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tocallback,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tocallnum,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tocancel,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tocancelmsg,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-toenternumber,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-toforward,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tohearenv,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tomakecall,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-tooshort,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-toreply,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-torerecord,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-undelete,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-undeleted,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-unknown-caller,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-whichbox,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-vm-youhave,core,voicemail,missing,,,Compare wording and menu actions against CallPilot when samples arrive.
-with,core,dialplan,missing,,,
-you-entered,core,dialplan,missing,,,
-your,core,dialplan,missing,,,
-nortel/ca/all-circuits-busy,extra,treatments,mapped,estd0aa/bank_00/phrase_40.wav,9f08203e034955b52a7a82730ccede909c7c1655b6e212c14de925759e20ade2,ESTD0AA NCA full treatment
-nortel/ca/call-did-not-go-through,extra,treatments,mapped,estd0aa/bank_00/phrase_41.wav,389c60d0ca5d477b606960d400896ded57fbf60eb017f5e0d1d32fcddf838b04,ESTD0AA ROA full treatment
-nortel/ca/dial-one-for-long-distance,extra,treatments,mapped,estd0aa/bank_00/phrase_46.wav,0d3aa040ff4052da15fdcf39fa387f2dbd6a5df61f59dbb3e8d754dacb8a1432,ESTD0AA MCL full treatment
-nortel/ca/dial-without-one,extra,treatments,mapped,estd0aa/bank_00/phrase_45.wav,7bda9742682645a5692f8032db736eb3efde4a45c58adb8e9cfe327cbdb26a0b,ESTD0AA MCA full treatment
-nortel/ca/number-not-in-service,extra,treatments,mapped,estd0aa/bank_00/phrase_44.wav,8d87f1ca21cb1a0e0a7e2c46de79f8b0dd6166606b5eea2fbbc7a1f7c9a8a99e,ESTD0AA VDN full treatment
-nortel/ca/receiver-off-hook,extra,treatments,mapped,estd0aa/bank_00/phrase_43.wav,baa8f64d8537fcaf40470b2d50ab9a83aa00725e0865e1adb72f3cf8670a8c46,ESTD0AA ROH full treatment
-nortel/ca/vacant-code,extra,treatments,mapped,estd0aa/bank_00/phrase_42.wav,e0563a42f3f842937b7425e1a412863f79fd3b232ec73fc63345da143a8c9c34,ESTD0AA VCA full treatment
-nortel/class/call-blocking-off,extra,class,mapped,acmsc0ge/bank_00/phrase_05.wav,52ed1fdcf9dd046964ee062f588ff7980d1b07c7a6a04569b46d56b1f207b353,"ACMSC0GE bank 0, phrase 5 (catalog-checked)"
-nortel/class/call-blocking-on,extra,class,mapped,acmsc0ge/bank_00/phrase_04.wav,e0c69fd41c3f9c3f34d22018b9b26b996eb85b2d3a5c2078c2d2dbc89c0330ea,"ACMSC0GE bank 0, phrase 4 (catalog-checked)"
-nortel/class/call-received-on,extra,class,mapped,eardt0ja/bank_01/phrase_05.wav,11fc418adf87aa744d3d7f23a146941494b11c551dc1a1bfcc36d03810f9d9a5,"EARDT0JA bank 1, phrase 5 (catalog-checked)"
-nortel/class/hang-up-now,extra,class,mapped,eardt0ja/bank_01/phrase_09.wav,c4ab955d5e58be425ec0b9040ed138452b99fe17311a608c6aac1adeed96e206,"EARDT0JA bank 1, phrase 9 (catalog-checked)"
-nortel/class/last-caller-unknown,extra,class,mapped,ecls10aj/bank_00/phrase_11.wav,c72ff8a69761291c4f0bdc167ef6d37291d449850b89173a04af7b54ea9b5664,"ECLS10AJ bank 0, phrase 11 (catalog-checked)"
-nortel/class/last-number-private-with-date,extra,class,mapped,eardt0ja/bank_01/phrase_06.wav,927becbc444c666858679bd93d9ec478facfb0376bdff3365d8ffd8e0297d180,"EARDT0JA bank 1, phrase 6 (catalog-checked)"
-nortel/class/last-number-that-called,extra,class,mapped,eardt0ja/bank_01/phrase_04.wav,25cf03ecedd7725666f85686e6b783d7c2f3ceb7b00d6a133cf864918b4fd8c8,"EARDT0JA bank 1, phrase 4 (catalog-checked)"
-nortel/class/preferred-forwarding-off,extra,class,mapped,acmsc0ge/bank_00/phrase_09.wav,f3091621e1cf84d15c1464e8aafcd943d84b198cc0cc20b3522aac65f22bc77e,"ACMSC0GE bank 0, phrase 9 (catalog-checked)"
-nortel/class/preferred-forwarding-on,extra,class,mapped,acmsc0ge/bank_00/phrase_08.wav,f9d4a0d15919a5b334af3bfbef47b020c1cdda165470d18f1f87202d49fa6ddc,"ACMSC0GE bank 0, phrase 8 (catalog-checked)"
-nortel/time/21,extra,call-return,mapped,eardt0jb/bank_00/phrase_48.wav,39b4c89ab280f5f538cf512c8235b9e3d5b35b255c7d81ea6847b5c947665623,"EARDT0JB spoken number 21, Nortel p. 17-70"
-nortel/time/22,extra,call-return,mapped,eardt0jb/bank_00/phrase_49.wav,ff2e361b64f13f220d6a23b13ef41da932ff7d54f9858cfba0945d98d6e0838e,"EARDT0JB spoken number 22, Nortel p. 17-70"
-nortel/time/23,extra,call-return,mapped,eardt0jb/bank_00/phrase_50.wav,1509a21bdc93eca67e520bc09007b2459c15a22d979fc4ade070f5b1e2139d8b,"EARDT0JB spoken number 23, Nortel p. 17-70"
-nortel/time/24,extra,call-return,mapped,eardt0jb/bank_01/phrase_04.wav,12bce7a65732456d21cd1c3558d7e3a4ff76c35ad92d1afa1a71eb5109f5c713,"EARDT0JB spoken number 24, Nortel p. 17-71"
-nortel/time/25,extra,call-return,mapped,eardt0jb/bank_01/phrase_05.wav,416d81ffa5adbbbf61306341fa9a1e951dd7ff7dd2d6bfa05fdc2deaf4a1ff5c,"EARDT0JB spoken number 25, Nortel p. 17-71"
-nortel/time/26,extra,call-return,mapped,eardt0jb/bank_01/phrase_06.wav,8c3ef72b8c407ce2edace69e845bc8472abdaccce64bc440c3aaaf568899a9b5,"EARDT0JB spoken number 26, Nortel p. 17-71"
-nortel/time/27,extra,call-return,mapped,eardt0jb/bank_01/phrase_07.wav,58f266442a8d9f97d4adae09b79f284e8f7aca4e84e34fe627bea517f6580602,"EARDT0JB spoken number 27, Nortel p. 17-71"
-nortel/time/28,extra,call-return,mapped,eardt0jb/bank_01/phrase_08.wav,396e4a3d02c6e5fc39ce2d1bf1c4b2c32aa64842572987b000d0351c9a4c7d13,"EARDT0JB spoken number 28, Nortel p. 17-71"
-nortel/time/29,extra,call-return,mapped,eardt0jb/bank_01/phrase_09.wav,3d95b177f4ca8f21991e4b5161a989d28c9cee597b52aeaf670c990d624ba584,"EARDT0JB spoken number 29, Nortel p. 17-71"
-nortel/time/31,extra,call-return,mapped,eardt0jb/bank_01/phrase_11.wav,6e93036f993488597fc150bcc282acdc06452db7536e508cc46188e7e24729b6,"EARDT0JB spoken number 31, Nortel p. 17-71"
-nortel/time/32,extra,call-return,mapped,eardt0jb/bank_01/phrase_12.wav,4f83392fa2c76993088bce554fdec2aa27159f27b4dd46aa5578a6ddd7f78701,"EARDT0JB spoken number 32, Nortel p. 17-71"
-nortel/time/33,extra,call-return,mapped,eardt0jb/bank_01/phrase_13.wav,5a6ba7918759896c77a896a29481f3f2b0ef507a677cbed1e3a81afd99ec4620,"EARDT0JB spoken number 33, Nortel p. 17-71"
-nortel/time/34,extra,call-return,mapped,eardt0jb/bank_01/phrase_14.wav,85d0f22ea823da478964b1897da609affc159f43e24f2958a4332551e3663356,"EARDT0JB spoken number 34, Nortel p. 17-71"
-nortel/time/35,extra,call-return,mapped,eardt0jb/bank_01/phrase_15.wav,251b160d992a5b11ef7d7328ef8841114e9dc76aa12104d95fcc9509406dd701,"EARDT0JB spoken number 35, Nortel p. 17-71"
-nortel/time/36,extra,call-return,mapped,eardt0jb/bank_01/phrase_16.wav,8a092d82d00cd7c114082118ed41d520bd280cc920126afa97fc06b4f9c3bd93,"EARDT0JB spoken number 36, Nortel p. 17-71"
-nortel/time/37,extra,call-return,mapped,eardt0jb/bank_01/phrase_17.wav,6b83f0ee4d0137ae0eaa7de45dfc765be5632d0d5788b033268055fef9c24cc7,"EARDT0JB spoken number 37, Nortel p. 17-71"
-nortel/time/38,extra,call-return,mapped,eardt0jb/bank_01/phrase_18.wav,bb1060dde7f1a5056108e98acd4042dddeac772714c59581006bc9333324a3db,"EARDT0JB spoken number 38, Nortel p. 17-71"
-nortel/time/39,extra,call-return,mapped,eardt0jb/bank_01/phrase_19.wav,1bdb95bc43f30a8f50b372ccafcc1379b4b24ef2ac7167da74fdaf5b0360f71a,"EARDT0JB spoken number 39, Nortel p. 17-72"
-nortel/time/41,extra,call-return,mapped,eardt0jb/bank_01/phrase_21.wav,5e08eb56e1253d04798a2d25d3ed6c2627d6cad64e2888bf406d14921b4f1313,"EARDT0JB spoken number 41, Nortel p. 17-72"
-nortel/time/42,extra,call-return,mapped,eardt0jb/bank_01/phrase_22.wav,3cc32c31d24e13aa1782e7ae9860926a3506bd312ea41f9d7912e228e83ce928,"EARDT0JB spoken number 42, Nortel p. 17-72"
-nortel/time/43,extra,call-return,mapped,eardt0jb/bank_01/phrase_23.wav,62a4ab14d4cec607d54f4741adb5637a0de0224a84d3c1d3c6e996220a830f4b,"EARDT0JB spoken number 43, Nortel p. 17-72"
-nortel/time/44,extra,call-return,mapped,eardt0jb/bank_01/phrase_24.wav,c1fa22544c19a8f4de2bab9426be9ccb3c8962b9aa978c91bf9b329f329d5ebd,"EARDT0JB spoken number 44, Nortel p. 17-72"
-nortel/time/45,extra,call-return,mapped,eardt0jb/bank_01/phrase_25.wav,052a153b9092bc085b95c6dbcfc48f2e5d65a9676dbfbaa0972127e66aec9d50,"EARDT0JB spoken number 45, Nortel p. 17-72"
-nortel/time/46,extra,call-return,mapped,eardt0jb/bank_01/phrase_26.wav,6d5d1787141c35ea625228de6947a0a9e27bc2e579fd7b83b0bd356acea0dbc0,"EARDT0JB spoken number 46, Nortel p. 17-72"
-nortel/time/47,extra,call-return,mapped,eardt0jb/bank_01/phrase_27.wav,e4c003151b860bdc705b2950e3426541796485150d067d1b94871e99f82f3a92,"EARDT0JB spoken number 47, Nortel p. 17-72"
-nortel/time/48,extra,call-return,mapped,eardt0jb/bank_01/phrase_28.wav,e20d6f174cad01e2da12e194261fb067e4cf63ff0e2de3d5184e43d3ef6fba60,"EARDT0JB spoken number 48, Nortel p. 17-72"
-nortel/time/49,extra,call-return,mapped,eardt0jb/bank_01/phrase_29.wav,91608bd8295276378d709010a5178e3b89609fc25035a34499649dd1575d98d5,"EARDT0JB spoken number 49, Nortel p. 17-72"
-nortel/time/51,extra,call-return,mapped,eardt0jb/bank_01/phrase_31.wav,5d6608d4b306bf33e2b1b6983444397cdc0b6b38fc893f900534c9f07e5f6abe,"EARDT0JB spoken number 51, Nortel p. 17-72"
-nortel/time/52,extra,call-return,mapped,eardt0jb/bank_01/phrase_32.wav,df739b64876810fcb20308b88152e06b5a7a2c52de183a67cedabec1e5c71681,"EARDT0JB spoken number 52, Nortel p. 17-72"
-nortel/time/53,extra,call-return,mapped,eardt0jb/bank_01/phrase_33.wav,4a4fd7af56166f759a3ed74f30604837064e6fc345c5701ed27f62038bbd5ccb,"EARDT0JB spoken number 53, Nortel p. 17-72"
-nortel/time/54,extra,call-return,mapped,eardt0jb/bank_01/phrase_34.wav,27d170e5562f1bc02b487c13bef78869773f6ceb67b2007869ab476d51dd085c,"EARDT0JB spoken number 54, Nortel p. 17-72"
-nortel/time/55,extra,call-return,mapped,eardt0jb/bank_01/phrase_35.wav,0d6352ebb2c43b6f978c287dfe47dd5aefd1887d0b5cb39ee606d71644d41db8,"EARDT0JB spoken number 55, Nortel p. 17-72"
-nortel/time/56,extra,call-return,mapped,eardt0jb/bank_01/phrase_36.wav,c34f4a385b8c77bc4b6f3b6ac6e00a3ee95e73823d3e17603e75126c07d5016b,"EARDT0JB spoken number 56, Nortel p. 17-72"
-nortel/time/57,extra,call-return,mapped,eardt0jb/bank_01/phrase_37.wav,c50f65f18c3529fc5344d5d5999d517d410d7d110ef6db2a9af6732b972c02bd,"EARDT0JB spoken number 57, Nortel p. 17-72"
-nortel/time/58,extra,call-return,mapped,eardt0jb/bank_01/phrase_38.wav,87fbd07e1217ff62b0ddd203876c53dd863ff3f7db0806e5846c815171202222,"EARDT0JB spoken number 58, Nortel p. 17-72"
-nortel/time/59,extra,call-return,mapped,eardt0jb/bank_01/phrase_39.wav,07e559d57367b36cd8642246069e657f78cb1921c0a6fc3412bc0ea811b4f87c,"EARDT0JB spoken number 59, Nortel p. 17-72"
-nortel/tones/calling-card-bong,extra,tones,mapped,eaabs0hc/bank_00/phrase_04.wav,1c4f3655afb399e6256dcfec9ea176dd5e682a0b85dc557f0952ebeaa48dc773,"EAABS0HC bank 0 phrase 4, listener identification"
-nortel/tones/howler,extra,tones,mapped,mwttone/tone-bank/tone_10.wav,9b2157e557b709c8cb426d099c6563c940122b2593c79f4dc30df97ec1feb3aa,MWTTONE sampled receiver-off-hook tone
-nortel/tones/milliwatt,extra,tones,mapped,mwttone/tone-bank/tone_09.wav,14513b605e7a369e937d5e8535fe5307ad7dac454e995d8c5aa3d027dcbbb6e6,MWTTONE sampled 1004 Hz reference
-nortel/tones/sit-01,extra,tones,mapped,tones/sit-01-f09de7aef96d7ac88c98420b787d13d30b15828849eadbdaf36fb18830e116df.wav,f09de7aef96d7ac88c98420b787d13d30b15828849eadbdaf36fb18830e116df,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-02,extra,tones,mapped,tones/sit-02-3e6b445f4cbf0260a0754e491e25cc642972e5c20191b07b5a63561537cf1bee.wav,3e6b445f4cbf0260a0754e491e25cc642972e5c20191b07b5a63561537cf1bee,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-03,extra,tones,mapped,tones/sit-03-4994464de2a39ec07fadda5746d99948833d5e686cfd6cd5718268debc7a2143.wav,4994464de2a39ec07fadda5746d99948833d5e686cfd6cd5718268debc7a2143,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-04,extra,tones,mapped,tones/sit-04-6788b9d3ed1d04bec043be328ef623ca85f86a02825d6098d562eb9219d12711.wav,6788b9d3ed1d04bec043be328ef623ca85f86a02825d6098d562eb9219d12711,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-05,extra,tones,mapped,tones/sit-05-bb1843ca35805cdd14d6f0a7b8f207e01d8a95ce2aa8ceec55c7318b4af216a9.wav,bb1843ca35805cdd14d6f0a7b8f207e01d8a95ce2aa8ceec55c7318b4af216a9,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-06,extra,tones,mapped,tones/sit-06-ccb8637f0c6a64f261f9d077b969fdf2d0d110ed64f34379e8a65ca8c5bb8a0f.wav,ccb8637f0c6a64f261f9d077b969fdf2d0d110ed64f34379e8a65ca8c5bb8a0f,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-07,extra,tones,mapped,tones/sit-07-c5fa04aaa1137409a3dcb04084b97d5db959e89bff7f2fd036d0dd4927f680c8.wav,c5fa04aaa1137409a3dcb04084b97d5db959e89bff7f2fd036d0dd4927f680c8,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-08,extra,tones,mapped,tones/sit-08-7fb30d3727dbf2bb0ced4f9b335f90286886eebf139aa9e14e9ecdaf0f23e4bd.wav,7fb30d3727dbf2bb0ced4f9b335f90286886eebf139aa9e14e9ecdaf0f23e4bd,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-09,extra,tones,mapped,tones/sit-09-bbb2f5a7c0b155ba3008494ce30f3a3e1b8ed1ddfae56773a3fb411acc699e48.wav,bbb2f5a7c0b155ba3008494ce30f3a3e1b8ed1ddfae56773a3fb411acc699e48,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-10,extra,tones,mapped,tones/sit-10-dbf21293cd27d9c6b7b12db4b76f766ecaf2378afdf63ffebed8211cb8a12b95.wav,dbf21293cd27d9c6b7b12db4b76f766ecaf2378afdf63ffebed8211cb8a12b95,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-11,extra,tones,mapped,tones/sit-11-8ce785e9b56e458c63513ffeeaeed99762f80e063fe0c81e53313006b918754e.wav,8ce785e9b56e458c63513ffeeaeed99762f80e063fe0c81e53313006b918754e,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-12,extra,tones,mapped,tones/sit-12-0a89ea6f1084e4cc8db74fe049264ec838e8f8a102bccc8c56610c5ca988562a.wav,0a89ea6f1084e4cc8db74fe049264ec838e8f8a102bccc8c56610c5ca988562a,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-13,extra,tones,mapped,tones/sit-13-b932f1b8a9bf5eaecf19ff2d87ee714cd5570d81eab671da8c3e9215c109de43.wav,b932f1b8a9bf5eaecf19ff2d87ee714cd5570d81eab671da8c3e9215c109de43,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-14,extra,tones,mapped,tones/sit-14-4f6180e6ccedaaed3dd41761e3040887bb849983ed77b5f446d50eb13ba6359b.wav,4f6180e6ccedaaed3dd41761e3040887bb849983ed77b5f446d50eb13ba6359b,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-15,extra,tones,mapped,tones/sit-15-f24d011522e415638856ab8985b5b848db4019e759977021ec11a60c045c4316.wav,f24d011522e415638856ab8985b5b848db4019e759977021ec11a60c045c4316,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-16,extra,tones,mapped,tones/sit-16-b1b5fa73b2b35029184fddd998bc8082215ec89e5e395f2c95e5d945e20deb3e.wav,b1b5fa73b2b35029184fddd998bc8082215ec89e5e395f2c95e5d945e20deb3e,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-17,extra,tones,mapped,tones/sit-17-3540ff9d1e1adac5a781a17ffb367fb183eed2a5dc1224a85d6360cdbbb41798.wav,3540ff9d1e1adac5a781a17ffb367fb183eed2a5dc1224a85d6360cdbbb41798,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-18,extra,tones,mapped,tones/sit-18-0db6ba63fc9148a52e0fe1372320c4a9a66654a4c5e8bd8f7859749ebf1afb5b.wav,0db6ba63fc9148a52e0fe1372320c4a9a66654a4c5e8bd8f7859749ebf1afb5b,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-19,extra,tones,mapped,tones/sit-19-fbcfa99440121205742715ba93e18f467f2f0c7e21aa703ec8d8a94ff3644fb8.wav,fbcfa99440121205742715ba93e18f467f2f0c7e21aa703ec8d8a94ff3644fb8,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-20,extra,tones,mapped,tones/sit-20-98a5c734bf56d2b952024bb8c7dc35d17ba0f4f37e8534cd2b20eca2884df6e3.wav,98a5c734bf56d2b952024bb8c7dc35d17ba0f4f37e8534cd2b20eca2884df6e3,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-21,extra,tones,mapped,tones/sit-21-ee8969438b048c39f4f1722d3cec70cbfc86b1a407ddd3b36c0e1a36ce4274cf.wav,ee8969438b048c39f4f1722d3cec70cbfc86b1a407ddd3b36c0e1a36ce4274cf,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-22,extra,tones,mapped,tones/sit-22-92527336007f72d35487658be8ea8dd60440498733415c8acf262b08ee13b67d.wav,92527336007f72d35487658be8ea8dd60440498733415c8acf262b08ee13b67d,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-23,extra,tones,mapped,tones/sit-23-caea883bab48f3a392eb458bc73f93214fa0e3094fa931a5f282d0b73421f5c7.wav,caea883bab48f3a392eb458bc73f93214fa0e3094fa931a5f282d0b73421f5c7,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-24,extra,tones,mapped,tones/sit-24-71fc8c63789a220073b45a2edfacf7ad085ed07ab77d1027a1f5ba37c80f77e5.wav,71fc8c63789a220073b45a2edfacf7ad085ed07ab77d1027a1f5ba37c80f77e5,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-25,extra,tones,mapped,tones/sit-25-537a80e60e2fd19fc3db95419ee173902a42e0c70b3f1d66485a140cb5f05ada.wav,537a80e60e2fd19fc3db95419ee173902a42e0c70b3f1d66485a140cb5f05ada,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-26,extra,tones,mapped,tones/sit-26-e3944098e09e2383368ae979ec89ec13f8743cd254bbd5eb51675ccb98dadef8.wav,e3944098e09e2383368ae979ec89ec13f8743cd254bbd5eb51675ccb98dadef8,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-27,extra,tones,mapped,tones/sit-27-187306f0f1b9edd677668d56bb55f5155f06f3172558b964c27ef3fe071d7553.wav,187306f0f1b9edd677668d56bb55f5155f06f3172558b964c27ef3fe071d7553,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-28,extra,tones,mapped,tones/sit-28-bda62bd7da8ba7b1ac6b0651e3efe5ea558bbd099a19d6bccee78d0d3130e3fc.wav,bda62bd7da8ba7b1ac6b0651e3efe5ea558bbd099a19d6bccee78d0d3130e3fc,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-29,extra,tones,mapped,tones/sit-29-064cc57b84b45eda82c1a07cbd978f4e8fdd5ef2eed69be22862dbd1c4ce644c.wav,064cc57b84b45eda82c1a07cbd978f4e8fdd5ef2eed69be22862dbd1c4ce644c,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-30,extra,tones,mapped,tones/sit-30-5cee6ce924a0e63942cc38a71cd7a64a244aef4c75bd25ece60cc2c99c292e20.wav,5cee6ce924a0e63942cc38a71cd7a64a244aef4c75bd25ece60cc2c99c292e20,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-31,extra,tones,mapped,tones/sit-31-d0b4f45cc97918f19bd44597257c14470190760a896c7105fe500cc26dfad6b0.wav,d0b4f45cc97918f19bd44597257c14470190760a896c7105fe500cc26dfad6b0,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/tones/sit-32,extra,tones,mapped,tones/sit-32-c55c2f08685a846d901e854743ed471ccac8c5760a3b996ba5855ded8ca5f8f3.wav,c55c2f08685a846d901e854743ed471ccac8c5760a3b996ba5855ded8ca5f8f3,SIT reconstructed by the EDRAM converter from documented Nortel timing
-nortel/us/all-circuits-busy,extra,treatments,mapped,astd0ab/bank_00/phrase_44.wav,fd3d00dd2097adcf8980b9df97c816ab6f23583c835278a9251af3aa5b7039cf,"ASTD0AB ATB, Nortel p. 17-36"
-nortel/us/call-did-not-go-through,extra,treatments,mapped,astd0ab/bank_00/phrase_43.wav,3ca4b63f34c2fdb14c7022538fdd81746d61b01c8235fbdc58f4148956a95f38,"ASTD0AB PDR, Nortel p. 17-36"
-nortel/us/dial-one,extra,treatments,mapped,astd0ab/bank_00/phrase_45.wav,bd1231ca32d6ccec8b20242ccd9cf593e0e44585d4d53800838bea6562457826,"ASTD0AB P1ND, Nortel p. 17-36"
-nortel/us/dial-without-one,extra,treatments,mapped,astd0ab/bank_00/phrase_48.wav,0adc49939e77715c54b48ba84f4e96f492cccd3b5eedecb28008b17a32287d25,"ASTD0AB P1D, Nortel p. 17-36"
-nortel/us/facility-trouble,extra,treatments,mapped,astd0ab/bank_00/phrase_46.wav,e1e0d80c68830febb0bc0d30546541c3ca93282067bd06016070e395370acf30,"ASTD0AB VDCF, Nortel p. 17-36"
-nortel/us/receiver-off-hook,extra,treatments,mapped,astd0ab/bank_00/phrase_41.wav,1d69c388bed3c0ce7240d69d29a69e32f2f0e8803a45db4a1750fae131ba0ecf,"ASTD0AB ROH, Nortel p. 17-36"
-nortel/us/vacant-code,extra,treatments,mapped,astd0ab/bank_00/phrase_40.wav,94f66718c7dd1ee61b57707c1fd0f311eb0ead42ac1790a56052bd6e6eeb34d3,"ASTD0AB VCA, Nortel p. 17-36"
+prompt,scope,group,status,source,source_wav,pcm_sha256,notes
+activated,core,dialplan,missing,,,,
+added,core,dialplan,mapped,callpilot5,audio/67601.wav,bd035fbb6584b0c0d8827bcbc8d3483fdc14786654aeae9d10e0b6d351699e9b,"CallPilot 5.0 Canadian voice 67601, speech checked against Asterisk"
+agent-alreadyon,core,queues-and-agents,missing,,,,
+agent-incorrect,core,queues-and-agents,missing,,,,
+agent-loggedoff,core,queues-and-agents,missing,,,,
+agent-loginok,core,queues-and-agents,missing,,,,
+agent-newlocation,core,queues-and-agents,missing,,,,
+agent-pass,core,queues-and-agents,missing,,,,
+agent-user,core,queues-and-agents,missing,,,,
+all-circuits-busy-now,core,dialplan,missing,,,,
+ascending-2tone,core,dialplan,missing,,,,
+astcc-followed-by-the-pound-key,core,dialplan,missing,,,,
+at-tone-time-exactly,core,dialplan,missing,,,,
+auth-incorrect,core,dialplan,missing,,,,
+auth-thankyou,core,dialplan,missing,,,,
+basic-pbx-ivr-main,core,dialplan,missing,,,,
+beep,core,dialplan,missing,,,,
+beeperr,core,dialplan,missing,,,,
+call-forwarding,core,dialplan,missing,,,,
+call-fwd-no-ans,core,dialplan,missing,,,,
+call-fwd-on-busy,core,dialplan,missing,,,,
+call-fwd-unconditional,core,dialplan,missing,,,,
+call-waiting,core,dialplan,missing,,,,
+calling,core,dialplan,missing,,,,
+cancelled,core,dialplan,missing,,,,
+cannot-complete-as-dialed,core,dialplan,missing,,,,Related DMS treatment available at nortel/us/vacant-code or nortel/ca/vacant-code. The longer wording stays under its own name.
+check-number-dial-again,core,dialplan,missing,,,,
+conf-adminmenu,core,conferencing,missing,,,,
+conf-adminmenu-162,core,conferencing,missing,,,,
+conf-adminmenu-18,core,conferencing,missing,,,,
+conf-adminmenu-menu8,core,conferencing,missing,,,,
+conf-enteringno,core,conferencing,missing,,,,
+conf-errormenu,core,conferencing,missing,,,,
+conf-extended,core,conferencing,missing,,,,
+conf-full,core,conferencing,missing,,,,
+conf-getchannel,core,conferencing,missing,,,,
+conf-getconfno,core,conferencing,missing,,,,
+conf-getpin,core,conferencing,missing,,,,
+conf-hasjoin,core,conferencing,missing,,,,
+conf-hasleft,core,conferencing,missing,,,,
+conf-invalid,core,conferencing,missing,,,,
+conf-invalidpin,core,conferencing,missing,,,,
+conf-kicked,core,conferencing,missing,,,,
+conf-leaderhasleft,core,conferencing,missing,,,,
+conf-locked,core,conferencing,missing,,,,
+conf-lockednow,core,conferencing,missing,,,,
+conf-muted,core,conferencing,missing,,,,
+conf-noempty,core,conferencing,missing,,,,
+conf-nonextended,core,conferencing,missing,,,,
+conf-now-muted,core,conferencing,missing,,,,
+conf-now-recording,core,conferencing,missing,,,,
+conf-now-unmuted,core,conferencing,missing,,,,
+conf-onlyone,core,conferencing,missing,,,,
+conf-onlyperson,core,conferencing,missing,,,,
+conf-otherinparty,core,conferencing,missing,,,,
+conf-placeintoconf,core,conferencing,missing,,,,
+conf-roll-callcomplete,core,conferencing,missing,,,,
+conf-thereare,core,conferencing,missing,,,,
+conf-unlockednow,core,conferencing,missing,,,,
+conf-unmuted,core,conferencing,missing,,,,
+conf-usermenu,core,conferencing,missing,,,,
+conf-usermenu-162,core,conferencing,missing,,,,
+conf-userswilljoin,core,conferencing,missing,,,,
+conf-userwilljoin,core,conferencing,missing,,,,
+conf-waitforleader,core,conferencing,missing,,,,
+confbridge-begin-glorious-a,core,conferencing,missing,,,,
+confbridge-begin-glorious-b,core,conferencing,missing,,,,
+confbridge-begin-glorious-c,core,conferencing,missing,,,,
+confbridge-begin-leader,core,conferencing,missing,,,,
+confbridge-binaural-off,core,conferencing,missing,,,,
+confbridge-binaural-on,core,conferencing,missing,,,,
+confbridge-conf-begin,core,conferencing,missing,,,,
+confbridge-conf-end,core,conferencing,missing,,,,
+confbridge-dec-list-vol-in,core,conferencing,missing,,,,
+confbridge-dec-list-vol-out,core,conferencing,missing,,,,
+confbridge-dec-talk-vol-in,core,conferencing,missing,,,,
+confbridge-dec-talk-vol-out,core,conferencing,missing,,,,
+confbridge-has-joined,core,conferencing,missing,,,,
+confbridge-has-left,core,conferencing,missing,,,,
+confbridge-inc-list-vol-in,core,conferencing,missing,,,,
+confbridge-inc-list-vol-out,core,conferencing,missing,,,,
+confbridge-inc-talk-vol-in,core,conferencing,missing,,,,
+confbridge-inc-talk-vol-out,core,conferencing,missing,,,,
+confbridge-invalid,core,conferencing,missing,,,,
+confbridge-join,core,conferencing,missing,,,,
+confbridge-leave,core,conferencing,missing,,,,
+confbridge-leave-in,core,conferencing,missing,,,,
+confbridge-leave-out,core,conferencing,missing,,,,
+confbridge-lock-extended,core,conferencing,missing,,,,
+confbridge-lock-in,core,conferencing,missing,,,,
+confbridge-lock-no-join,core,conferencing,missing,,,,
+confbridge-lock-out,core,conferencing,missing,,,,
+confbridge-locked,core,conferencing,missing,,,,
+confbridge-menu-exit-in,core,conferencing,missing,,,,
+confbridge-menu-exit-out,core,conferencing,missing,,,,
+confbridge-mute-extended,core,conferencing,missing,,,,
+confbridge-mute-in,core,conferencing,missing,,,,
+confbridge-mute-out,core,conferencing,missing,,,,
+confbridge-muted,core,conferencing,missing,,,,
+confbridge-only-one,core,conferencing,missing,,,,
+confbridge-only-participant,core,conferencing,missing,,,,
+confbridge-participants,core,conferencing,missing,,,,
+confbridge-pin,core,conferencing,missing,,,,
+confbridge-pin-bad,core,conferencing,missing,,,,
+confbridge-remove-last-in,core,conferencing,missing,,,,
+confbridge-remove-last-out,core,conferencing,missing,,,,
+confbridge-removed,core,conferencing,missing,,,,
+confbridge-rest-list-vol-in,core,conferencing,missing,,,,
+confbridge-rest-list-vol-out,core,conferencing,missing,,,,
+confbridge-rest-talk-vol-in,core,conferencing,missing,,,,
+confbridge-rest-talk-vol-out,core,conferencing,missing,,,,
+confbridge-there-are,core,conferencing,missing,,,,
+confbridge-unlocked,core,conferencing,missing,,,,
+confbridge-unmuted,core,conferencing,missing,,,,
+de-activated,core,dialplan,missing,,,,
+demo-abouttotry,core,dialplan,missing,,,,
+demo-congrats,core,dialplan,missing,,,,
+demo-echodone,core,dialplan,missing,,,,
+demo-echotest,core,dialplan,missing,,,,
+demo-enterkeywords,core,dialplan,missing,,,,
+demo-instruct,core,dialplan,missing,,,,
+demo-moreinfo,core,dialplan,missing,,,,
+demo-nogo,core,dialplan,missing,,,,
+demo-nomatch,core,dialplan,missing,,,,
+demo-thanks,core,dialplan,missing,,,,
+descending-2tone,core,dialplan,missing,,,,
+dictate/both_help,core,dialplan,missing,,,,
+dictate/enter_filename,core,dialplan,missing,,,,
+dictate/forhelp,core,dialplan,missing,,,,
+dictate/pause,core,dialplan,missing,,,,
+dictate/paused,core,dialplan,missing,,,,
+dictate/play_help,core,dialplan,missing,,,,
+dictate/playback,core,dialplan,missing,,,,
+dictate/playback_mode,core,dialplan,missing,,,,
+dictate/record,core,dialplan,missing,,,,
+dictate/record_help,core,dialplan,missing,,,,
+dictate/record_mode,core,dialplan,missing,,,,
+dictate/truncating_audio,core,dialplan,missing,,,,
+digits/0,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_47.wav,fb40b45591cc2984ac08a198dc1447c730618d6f31c1093b5c2fa1a8d125f274,ESTD0AA standard digit ENG0
+digits/1,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_48.wav,00057fdb9672fb3c2b9bf701897f1f300dbaf4287f75887137ac82e75f7b1758,ESTD0AA standard digit ENG1
+digits/10,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_37.wav,bcf81420ca0fb83d49f99bf732231e3f214ad0f92cd67fd632dd668f0ad80cdd,"EARDT0JB spoken number 10, Nortel p. 17-69"
+digits/11,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_38.wav,b7a5b6c9fff2dc2a7c6704790af902bedd0496b9c703d611a4e77f33074ed973,"EARDT0JB spoken number 11, Nortel p. 17-69"
+digits/12,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_39.wav,30043ca31a9a6fb0fb6e57f7c17903eed4263029ca80c64618fb6b6ef8873c93,"EARDT0JB spoken number 12, Nortel p. 17-69"
+digits/13,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_40.wav,c027e6b035410391c57ebbd58582505c5497681a6551c019508bdfb385635852,"EARDT0JB spoken number 13, Nortel p. 17-69"
+digits/14,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_41.wav,73d788130c4f7888924a28a1f432130ae0396ab7734b5517b0e8c7a23939766b,"EARDT0JB spoken number 14, Nortel p. 17-69"
+digits/15,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_42.wav,e41c69d315150e8e1a33166db0fe6080801917e983e51e0582b3cf510468c7a9,"EARDT0JB spoken number 15, Nortel p. 17-69"
+digits/16,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_43.wav,ad6e3562855ac1a29b43b1a6d4ceabac9ac17020cd6ac54449970826887a59a9,"EARDT0JB spoken number 16, Nortel p. 17-69"
+digits/17,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_44.wav,5add19ce86d2f30117ae67d21cf63f53c70a19e8342c929a4a57c4ff4f1c4717,"EARDT0JB spoken number 17, Nortel p. 17-69"
+digits/18,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_45.wav,66c866d772ccf535496ae7ab36baf9835840ac5b4ee12974b97aa358492a0864,"EARDT0JB spoken number 18, Nortel p. 17-70"
+digits/19,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_46.wav,77f37adb76c3ec6d4984a1dc608eacf881400ca95d4f7fc052e816375dd67dce,"EARDT0JB spoken number 19, Nortel p. 17-70"
+digits/2,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_49.wav,1984a2b507061ab9cfa10bc6f191cc16a2083c15ade48fbc5c270be44d9dbc41,ESTD0AA standard digit ENG2
+digits/20,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_47.wav,19b687818ef59faf41718849f15e87146eef657fa263b6aebf8f911aa35b49e6,"EARDT0JB spoken number 20, Nortel p. 17-70"
+digits/3,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_50.wav,3333d728cf85cc158b7805b238ee7b002ead52f8ff30f4669caca96047574786,ESTD0AA standard digit ENG3
+digits/30,core,numbers-and-dates,mapped,edram,eardt0jb/bank_01/phrase_10.wav,23eb63bd2c3a15f8214a61ace5f2e942edbe9e58b94e88bfd14c15b95718b194,"EARDT0JB spoken number 30, Nortel p. 17-71"
+digits/4,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_51.wav,0af15c5cc6067be13f131cee3a63ce4c7b95779be5bcbcee5276884a762e5fc1,ESTD0AA standard digit ENG4
+digits/40,core,numbers-and-dates,mapped,edram,eardt0jb/bank_01/phrase_20.wav,b507fbb0f2f970cb832a3d52718040c82f9065c44b75acf06cbc6799d2035e23,"EARDT0JB spoken number 40, Nortel p. 17-72"
+digits/5,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_52.wav,8ec8abcdc289be5989b26357970816e3c90bba564a74c61b5f20bec9b296f26d,ESTD0AA standard digit ENG5
+digits/50,core,numbers-and-dates,mapped,edram,eardt0jb/bank_01/phrase_30.wav,4ca353b7869091f469083f223d0e21a0f4f5f7090ba8b8f7f5ef0ada4bf976b0,"EARDT0JB spoken number 50, Nortel p. 17-72"
+digits/6,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_53.wav,18d072d65790a6a78d9b74c76c3c7cee87d394fed8051f86270ddbfb74bb9fdd,ESTD0AA standard digit ENG6
+digits/60,core,numbers-and-dates,mapped,callpilot5,audio/40905.wav,6f7ecb6a9e2b5ba756542cda724aa5b944e82bfea519a9ba93dffc0be36b7e4d,"CallPilot 5.0 Canadian voice 40905, number table 14 and isolated speech"
+digits/7,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_54.wav,8e2e73b625dac051b9dd36297522ddbc43b868b3bf661b5e5cca0edd63b777aa,ESTD0AA standard digit ENG7
+digits/70,core,numbers-and-dates,mapped,callpilot5,audio/41905.wav,7db78e9bc53af9dedf2b5f75ab29280a1b20ab0ff5b0280ac3691e785b9a4b11,"CallPilot 5.0 Canadian voice 41905, number table 14 and isolated speech"
+digits/8,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_55.wav,c628df3f85fa76995f5020102edd215b23f33c1c1331254f978a8d6a45b8abe6,ESTD0AA standard digit ENG8
+digits/80,core,numbers-and-dates,mapped,callpilot5,audio/42905.wav,86fd548f532d58b3cea4e0823271ba341cf79bb6dd8a0091ec4a3a8cbcbe88c4,"CallPilot 5.0 Canadian voice 42905, number table 14 and isolated speech"
+digits/9,core,numbers-and-dates,mapped,edram,estd0aa/bank_00/phrase_56.wav,c6a620eb939e7369e85bf951e4f1ff4ae933afa99196002bbaa57e25271f5987,ESTD0AA standard digit ENG9
+digits/90,core,numbers-and-dates,mapped,callpilot5,audio/43905.wav,700190926ec453075aa0ca19099b686a2c48a302b1c496dd2f84fa19a77a2c09,"CallPilot 5.0 Canadian voice 43905, number table 14 and isolated speech"
+digits/a-m,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_16.wav,c925d1a70a38351ebff206c13bec38b03933ddfebec03d058c2e8c6d0aea611d,"EARDT0JB time-of-day fragment, Nortel p. 17-68"
+digits/at,core,numbers-and-dates,mapped,callpilot5,audio/50805.wav,206633b47d5b2cc08a6a1363423fa42bb630cda5a9dedd53b2d68d9fd143f194,"CallPilot 5.0 Canadian voice 50805, speech checked against Asterisk"
+digits/billion,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0240.wav,dd61dd6a1eb45137ce0442ca9a4cd26703f410fadaeb8a76bed48217159c8064,"BCM 4.0 numset 240, billion"
+digits/day-0,core,numbers-and-dates,mapped,callpilot5,audio/45105.wav,52ab9eaa3eb3c637dcb707be958fbc172f9ad4c42ec9f03f6fe123839c96cb87,"CallPilot 5.0 Canadian voice 45105, weekday table 16"
+digits/day-1,core,numbers-and-dates,mapped,callpilot5,audio/45205.wav,97aaebe876df14098b61c86ad904eb16d6ce2211f5ac9df4b4a8bd5be8cd19f9,"CallPilot 5.0 Canadian voice 45205, weekday table 16"
+digits/day-2,core,numbers-and-dates,mapped,callpilot5,audio/45305.wav,fb8959c7b45c9bc454dced2602d795b760cd83b5f1746dbe33178e22168c558f,"CallPilot 5.0 Canadian voice 45305, weekday table 16"
+digits/day-3,core,numbers-and-dates,mapped,callpilot5,audio/45405.wav,c9a71702407ad5b1d43da5f4b902a9132920c3bb2767ab467022750811f2865c,"CallPilot 5.0 Canadian voice 45405, weekday table 16"
+digits/day-4,core,numbers-and-dates,mapped,callpilot5,audio/45505.wav,ffa6b4d4867c97cea8acdfcc5a2f0dc135b30053e16a190639ddde22b234a645,"CallPilot 5.0 Canadian voice 45505, weekday table 16"
+digits/day-5,core,numbers-and-dates,mapped,callpilot5,audio/45605.wav,aa0cf84accbc62daea3c480d600611bfd0d8544b62da5e6baef810d798d21667,"CallPilot 5.0 Canadian voice 45605, weekday table 16"
+digits/day-6,core,numbers-and-dates,mapped,callpilot5,audio/45705.wav,47750061666954a51e8821bba56376c6cbe9b59aeb7302d9fd05f8243de2b500,"CallPilot 5.0 Canadian voice 45705, weekday table 16"
+digits/dollars,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0368.wav,5d5f6849360c35bcb04a56309f5ac97ad7e173959cdb458c2cdda5ecbf36aeff,"BCM 4.0 numset 368, dollars"
+digits/h-1,core,numbers-and-dates,mapped,callpilot5,audio/47005.wav,ea0ac0422bf71de6ab6e9ab17f91420c24d97f796756bd8332dcf6eff8728955,"CallPilot 5.0 Canadian voice 47005, date ordinal table 18"
+digits/h-10,core,numbers-and-dates,mapped,callpilot5,audio/47905.wav,8fe09ece9c64ec90335fb1bd6fc63333d703b5db8c1f982ba7fb2ceeb5dd8411,"CallPilot 5.0 Canadian voice 47905, date ordinal table 18"
+digits/h-11,core,numbers-and-dates,mapped,callpilot5,audio/48005.wav,ebf2ea8703fcf2cf45c1bada83d56e6b7ab03ed6c2b2be34a2891bf67157b17b,"CallPilot 5.0 Canadian voice 48005, date ordinal table 18"
+digits/h-12,core,numbers-and-dates,mapped,callpilot5,audio/48105.wav,0a87d539ce4d8ce9238270b842128105c56149fbb3458f39f940ea7bfb47d00b,"CallPilot 5.0 Canadian voice 48105, date ordinal table 18"
+digits/h-13,core,numbers-and-dates,mapped,callpilot5,audio/48205.wav,6ed014443390956c2c99a283f805ffc81ed337461188aba0ff02714168395c32,"CallPilot 5.0 Canadian voice 48205, date ordinal table 18"
+digits/h-14,core,numbers-and-dates,mapped,callpilot5,audio/48305.wav,22caf3c72f964e9bf70eda7bca82f11734b7c0c5edbe1f046e930cb9864db729,"CallPilot 5.0 Canadian voice 48305, date ordinal table 18"
+digits/h-15,core,numbers-and-dates,mapped,callpilot5,audio/48405.wav,238ed121f3ab7a0cb3ef3fd987e2d9684d3270509311f694ea8fde024c205e82,"CallPilot 5.0 Canadian voice 48405, date ordinal table 18"
+digits/h-16,core,numbers-and-dates,mapped,callpilot5,audio/48505.wav,7e1698762096e82a702ab161f4d1187679cf39863f2bf5f05b5246b6d8e58da2,"CallPilot 5.0 Canadian voice 48505, date ordinal table 18"
+digits/h-17,core,numbers-and-dates,mapped,callpilot5,audio/48605.wav,20afb128bf794d231babd72a67bda51e6a11dcb930ab629088981aeb6b158a33,"CallPilot 5.0 Canadian voice 48605, date ordinal table 18"
+digits/h-18,core,numbers-and-dates,mapped,callpilot5,audio/48705.wav,3fb8e1b6106173d1df7aac20cd7d94d2a1a5014b18213ba8b3f8f81850c3c462,"CallPilot 5.0 Canadian voice 48705, date ordinal table 18"
+digits/h-19,core,numbers-and-dates,mapped,callpilot5,audio/48805.wav,160a5d8d0946d1e853749f60a9f011b01e22380b03f73d518f03104822a1adb2,"CallPilot 5.0 Canadian voice 48805, date ordinal table 18"
+digits/h-2,core,numbers-and-dates,mapped,callpilot5,audio/47105.wav,12953f6d8da6c9637ffc50a100aa000c1f097b48c1f9f672f14f0e6b68c12458,"CallPilot 5.0 Canadian voice 47105, date ordinal table 18"
+digits/h-20,core,numbers-and-dates,mapped,callpilot5,audio/48905.wav,08393fdc0a46ac6e9b9bbd6e675a419f773de754fca88f5a2c37305b8baf44d3,"CallPilot 5.0 Canadian voice 48905, date ordinal table 18"
+digits/h-3,core,numbers-and-dates,mapped,callpilot5,audio/47205.wav,0f6a456880acfe60effe31c704ee551b664e52b37802a3d46bae10e8b6fcd241,"CallPilot 5.0 Canadian voice 47205, date ordinal table 18"
+digits/h-30,core,numbers-and-dates,mapped,callpilot5,audio/49905.wav,4ee7f060848dfe3bb7cd18b2bd15a1780261574b07cadf5d77d3f1bd6299d55e,"CallPilot 5.0 Canadian voice 49905, date ordinal table 18"
+digits/h-4,core,numbers-and-dates,mapped,callpilot5,audio/47305.wav,dd5f82982f6e55a60e95d4f47d33a9c2b60d68c7116a8a881270862e5ea3e46c,"CallPilot 5.0 Canadian voice 47305, date ordinal table 18"
+digits/h-40,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0280.wav,00ce2bba98ea2682abc0727332e0b663ecbc486cc07aebec0d830c1ef0013d21,"BCM 4.0 numset 280, fortieth"
+digits/h-5,core,numbers-and-dates,mapped,callpilot5,audio/47405.wav,b802b0bf82caad5d2cf23d418e5ed3c546cf150211185c8825b390ccd34574d0,"CallPilot 5.0 Canadian voice 47405, date ordinal table 18"
+digits/h-50,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0290.wav,5db5f79c0dde698eaa98e30d65c25021c5a7497109747541139328ad78347faa,"BCM 4.0 numset 290, fiftieth"
+digits/h-6,core,numbers-and-dates,mapped,callpilot5,audio/47505.wav,99602be211b1edd3d624f40d5de2019bf6b3434df71f54114a56bf02dff0bd2e,"CallPilot 5.0 Canadian voice 47505, date ordinal table 18"
+digits/h-60,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0300.wav,c751ab4ba8de95731c91aefccba28f26f8a2a19d19e393593c7a9ae9b21bd8d1,"BCM 4.0 numset 300, sixtieth"
+digits/h-7,core,numbers-and-dates,mapped,callpilot5,audio/47605.wav,2f8c09007cecdd75fc840bb40b3934cc382493cc6066673289f12e31259d51b7,"CallPilot 5.0 Canadian voice 47605, date ordinal table 18"
+digits/h-70,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0310.wav,cd17d6cfe20dd48f05afd2c16419861042a97817369bab318a7483f73c7ee6a8,"BCM 4.0 numset 310, seventieth"
+digits/h-8,core,numbers-and-dates,mapped,callpilot5,audio/47705.wav,8ad2e1d0750123257ca27b4d434679a379abab1cdf22bb860c28a306b77ba42b,"CallPilot 5.0 Canadian voice 47705, date ordinal table 18"
+digits/h-80,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0320.wav,437526f1c746a2029e5ca5739d751a2d39ed7e69a5eaf5939184cd8d292cd2e9,"BCM 4.0 numset 320, eightieth"
+digits/h-9,core,numbers-and-dates,mapped,callpilot5,audio/47805.wav,a5f306aba9061716d7959e724ba1d8c85ef4cfc48c09e9a86ce532170d16c4c9,"CallPilot 5.0 Canadian voice 47805, date ordinal table 18"
+digits/h-90,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0330.wav,b35c50ae385aa7795ce01b8f76ad9b237118d95907bed8cd6a681c82ec89dd11,"BCM 4.0 numset 330, ninetieth"
+digits/h-billion,core,numbers-and-dates,missing,,,,
+digits/h-hundred,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0642.wav,6204eafa84c55e62de27be0b2949046fed102fb86e49978804c00ac85311177b,"BCM 4.0 numset 642, hundredth"
+digits/h-million,core,numbers-and-dates,missing,,,,
+digits/h-thousand,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0643.wav,4b22798f649c65676b0c2ab77ec5cf8599c41e65e2fa447ac8fac199ec7b2203,"BCM 4.0 numset 643, thousandth"
+digits/hundred,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0102.wav,34ee41b9733b3d94d0a56d36f1bcefe7500a9c16a0a0d0d9d44ff91070d6605f,"BCM 4.0 numset 102, hundred"
+digits/million,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0239.wav,e1b13a39dbb116a718a114c1ba19aa879f93b85f1a5e47a3b8755a29959cc968,"BCM 4.0 numset 239, million"
+digits/minus,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0360.wav,6e4eeb8a88fbd06f95ad7a612694cda78be7a77ea2e9ddfa33c7a1dd8063fe4d,"BCM 4.0 numset 360, minus"
+digits/mon-0,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_04.wav,5f4ccb7c0278eadcaf9860bfd14459614d8a767f0c88877e938a55b145e3ad27,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-1,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_05.wav,54948a2ca62058c81a773c23422ee9df8fcf092d57984bf2228169adc04f3b93,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-10,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_14.wav,54478d4b2f799c52d398995375d1ab66775d0d73e8bb6e6fe7b88798dc31fa8b,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-11,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_15.wav,12d81c616f111858cc7682b61b3357925f346f308f4b8ab8e45c34b699de46cd,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-2,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_06.wav,b3bb8ec37f89293f9975f24c456d8b1739935a1f17fdaf0d5c6f4b476d4a2760,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-3,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_07.wav,6fe4b2d7df60d6c78b0509f6cedda6191e8d425522aa5d53a4b4cba9367505a1,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-4,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_08.wav,a4f1328f591b576f13ae83db4d018786b0ef6fd583ae7343cb8bd1adf52c8bdd,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-5,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_09.wav,086f448ce8a68fc931b0e9bd5ab5e9a4c50249df86325f02b33a051cb8df12ac,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-6,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_10.wav,ffb5acf88d90cab7c6bb23a90729efd134462c2b906221ea783e1286e695ebcb,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-7,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_11.wav,698e6e6951d0568690d86a8cc0b71efe43a9a1579d5990046cc44f07ed14d7ee,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-8,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_12.wav,8624ce35ac9d05a250593b271f41a3d06ce26be6fa18d96916059c5ef45c6f08,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/mon-9,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_13.wav,0d473075c64caa8c9e08248b41c5db176291bc6bf15393ab083807c2aa05e442,"EARDT0JB month fragment, Nortel p. 17-68"
+digits/oclock,core,numbers-and-dates,missing,,,,
+digits/oh,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0418.wav,efc467397cd2c130fda68c7ef398d7d69f6b84a9d32594c9547e8ac536ec39ab,"BCM 4.0 numset 418, o"
+digits/p-m,core,numbers-and-dates,mapped,edram,eardt0jb/bank_00/phrase_17.wav,d1d88ce6314ca584ac821f33dc2953737e6049319104cbeee1966a406218ed2a,"EARDT0JB time-of-day fragment, Nortel p. 17-68"
+digits/pound,core,numbers-and-dates,missing,,,,
+digits/star,core,numbers-and-dates,mapped,callpilot5,audio/5504.wav,0d32a528168b173be121d389704e8c3298d60bb84e0f6542ccf0510143ad695d,"CallPilot 5.0 Canadian voice 5504, speech checked against Asterisk"
+digits/thousand,core,numbers-and-dates,mapped,bcm4,bcm4-mmf/numset/audio/eap_0238.wav,cc64377d4202663fd782490bbb2022c8e0d0baab2ea9d78626862b528b0e41ff,"BCM 4.0 numset 238, thousand"
+digits/today,core,numbers-and-dates,missing,,,,
+digits/tomorrow,core,numbers-and-dates,missing,,,,
+digits/yesterday,core,numbers-and-dates,missing,,,,
+dir-first,core,dialplan,missing,,,,
+dir-firstlast,core,dialplan,missing,,,,
+dir-instr,core,dialplan,missing,,,,
+dir-intro,core,dialplan,missing,,,,
+dir-intro-fn,core,dialplan,missing,,,,
+dir-last,core,dialplan,missing,,,,
+dir-multi1,core,dialplan,missing,,,,
+dir-multi2,core,dialplan,mapped,callpilot5,audio/173805.wav,dff56ef01b1e4fe2f5177984de444d01d3eabc8c67eb5f741ca4aab5ff2b00cc,"CallPilot 5.0 Canadian voice 173805, speech checked against Asterisk"
+dir-multi3,core,dialplan,mapped,callpilot5,audio/54105.wav,cc6e893b3f8a5797b8a55a4145a6e42d93743aebf86bc8cd19f0ba0073f903fa,"CallPilot 5.0 Canadian voice 54105, speech checked against Asterisk"
+dir-multi9,core,dialplan,missing,,,,
+dir-nomatch,core,dialplan,missing,,,,
+dir-nomore,core,dialplan,missing,,,,
+dir-pls-enter,core,dialplan,missing,,,,
+dir-usingkeypad,core,dialplan,missing,,,,
+dir-welcome,core,dialplan,missing,,,,
+disabled,core,dialplan,missing,,,,
+do-not-disturb,core,dialplan,missing,,,,
+enabled,core,dialplan,missing,,,,
+enter-num-blacklist,core,dialplan,missing,,,,
+entr-num-rmv-blklist,core,dialplan,missing,,,,
+extension,core,dialplan,mapped,callpilot5,audio/54105.wav,cc6e893b3f8a5797b8a55a4145a6e42d93743aebf86bc8cd19f0ba0073f903fa,"CallPilot 5.0 Canadian voice 54105, speech checked against Asterisk"
+feature-not-avail-line,core,dialplan,missing,,,,
+followme/call-from,core,dialplan,missing,,,,
+followme/no-recording,core,dialplan,missing,,,,
+followme/options,core,dialplan,missing,,,,
+followme/pls-hold-while-try,core,dialplan,missing,,,,
+followme/sorry,core,dialplan,missing,,,,
+followme/status,core,dialplan,missing,,,,
+for,core,dialplan,mapped,callpilot5,audio/173805.wav,dff56ef01b1e4fe2f5177984de444d01d3eabc8c67eb5f741ca4aab5ff2b00cc,"CallPilot 5.0 Canadian voice 173805, speech checked against Asterisk"
+from-unknown-caller,core,dialplan,missing,,,,
+goodbye,core,dialplan,missing,,,,
+hello,core,dialplan,mapped,callpilot5,audio/15301.wav,89146bb9531183d212cf88f84eb0f5c0afcabc6aae1909b2307b649747ee5749,"CallPilot 5.0 Canadian voice 15301, speech checked against Asterisk"
+hello-world,core,dialplan,missing,,,,
+hours,core,dialplan,missing,,,,
+if-correct-press,core,dialplan,missing,,,,
+im-sorry,core,dialplan,missing,,,,
+info-about-last-call,core,dialplan,missing,,,,
+invalid,core,dialplan,missing,,,,
+is,core,dialplan,missing,,,,
+is-in-use,core,dialplan,missing,,,,
+is-set-to,core,dialplan,missing,,,,
+letters/a,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0392.wav,d7ef4a59bfea31c49050d6953544d43b6f0d6b19e3cbd8f9059b16604d815e20,"BCM 4.0 numset 392, A"
+letters/ascii123,core,letters-and-phonetics,missing,,,,
+letters/ascii124,core,letters-and-phonetics,missing,,,,
+letters/ascii125,core,letters-and-phonetics,missing,,,,
+letters/ascii126,core,letters-and-phonetics,missing,,,,
+letters/ascii34,core,letters-and-phonetics,missing,,,,
+letters/ascii36,core,letters-and-phonetics,missing,,,,
+letters/ascii37,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0364.wav,0e3c6697856bda2c6997b828b4e2c2169e1d3dbbe024cf6d4840ba69a35bc080,"BCM 4.0 numset 364, percent"
+letters/ascii38,core,letters-and-phonetics,missing,,,,
+letters/ascii39,core,letters-and-phonetics,missing,,,,
+letters/ascii40,core,letters-and-phonetics,missing,,,,
+letters/ascii41,core,letters-and-phonetics,missing,,,,
+letters/ascii42,core,letters-and-phonetics,mapped,callpilot5,audio/5504.wav,0d32a528168b173be121d389704e8c3298d60bb84e0f6542ccf0510143ad695d,"CallPilot 5.0 Canadian voice 5504, speech checked against Asterisk"
+letters/ascii44,core,letters-and-phonetics,missing,,,,
+letters/ascii58,core,letters-and-phonetics,missing,,,,
+letters/ascii59,core,letters-and-phonetics,missing,,,,
+letters/ascii60,core,letters-and-phonetics,missing,,,,
+letters/ascii62,core,letters-and-phonetics,missing,,,,
+letters/ascii63,core,letters-and-phonetics,missing,,,,
+letters/ascii91,core,letters-and-phonetics,missing,,,,
+letters/ascii92,core,letters-and-phonetics,missing,,,,
+letters/ascii93,core,letters-and-phonetics,missing,,,,
+letters/ascii94,core,letters-and-phonetics,missing,,,,
+letters/ascii95,core,letters-and-phonetics,missing,,,,
+letters/ascii96,core,letters-and-phonetics,missing,,,,
+letters/asterisk,core,letters-and-phonetics,missing,,,,
+letters/at,core,letters-and-phonetics,mapped,callpilot5,audio/50805.wav,206633b47d5b2cc08a6a1363423fa42bb630cda5a9dedd53b2d68d9fd143f194,"CallPilot 5.0 Canadian voice 50805, speech checked against Asterisk"
+letters/b,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0393.wav,f09cac0d40791c222328c149a923eedc3127dfaac016c36772435c03d4986844,"BCM 4.0 numset 393, B"
+letters/c,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0394.wav,eb436353e98cbbe5be8ebea2437ac63af9abb23c80ca8a314eae4475df22fd2e,"BCM 4.0 numset 394, C"
+letters/d,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0395.wav,096a55530dee9257fa0f8adec6260963dcb344fb4c67fa80f4ff9ee12d17c48c,"BCM 4.0 numset 395, D"
+letters/dash,core,letters-and-phonetics,missing,,,,
+letters/dollar,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0369.wav,11321e54b43847a3e6516fa4b4a23682c54b7a0d5d827525141d4bbbc3b03f44,"BCM 4.0 numset 369, dollar"
+letters/dot,core,letters-and-phonetics,missing,,,,
+letters/e,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0396.wav,718cd9c5d083c5a8da12195868a946458755ad9566093eba084d0c6907785390,"BCM 4.0 numset 396, E"
+letters/equals,core,letters-and-phonetics,missing,,,,
+letters/exclaimation-point,core,letters-and-phonetics,missing,,,,
+letters/f,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0397.wav,89cbd88a0a18875c080cdea9225561a3665af4ed24715ee7d8c16b5e9d9a18af,"BCM 4.0 numset 397, F"
+letters/g,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0398.wav,af93f532c958fa778fc0a741c7689d02503e9b0051417ee167d0cd91f2bef0a3,"BCM 4.0 numset 398, G"
+letters/h,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0399.wav,cffe2a3a360f9b57ae6842dd7675c3c854b88dcda683b25eb032a5d678d5294b,"BCM 4.0 numset 399, H"
+letters/i,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0400.wav,a4171ee5032d35cc9dd2da5372a20ce3c4c27f6b1f9310d6283204d835f94094,"BCM 4.0 numset 400, I"
+letters/j,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0401.wav,72927f21090647e1541329312058887767b98a8004afc1590452e7f07c07d0c4,"BCM 4.0 numset 401, J"
+letters/k,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0402.wav,b65d650a5494f1274bf04630c59a7638d476a8aaba66b7ee76762603b86fd508,"BCM 4.0 numset 402, K"
+letters/l,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0403.wav,bb712b0b16f94c78ccb23f83660cb6c3e2ecf7415251eaf4a163ddc7a22b8533,"BCM 4.0 numset 403, L"
+letters/m,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0404.wav,7e96097d7ccdff3397d8f1dd2c61e2e2b53ed0eee8e7c8434198e2875b5bd2af,"BCM 4.0 numset 404, M"
+letters/n,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0405.wav,7c729e405ba5fc1eef2f67ada20c26c0bb2e049760c17e7cfbc05c9894acfec0,"BCM 4.0 numset 405, N"
+letters/o,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0406.wav,4999b50484e01413cc4d6416abe8f20a5afdc6b15e83dc58ef80e976c38f8d56,"BCM 4.0 numset 406, O"
+letters/p,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0407.wav,f9d93e4fe436d512debb8659de5893cde0ab9804d3a414aeed18777683edc032,"BCM 4.0 numset 407, P"
+letters/plus,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0362.wav,991bf38d233822ec1ac03d39250490cd9a3dde67c1251d3fc7a0d8f6a689c889,"BCM 4.0 numset 362, plus"
+letters/q,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0408.wav,99bd970ffe978c8e0886dce4e9b305993564241cb57050059c38f0cf7952f04c,"BCM 4.0 numset 408, Q"
+letters/r,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0409.wav,51b5835e9e9e2b4cdb57ea326de1fe76a25cfb42abc5ab0e0210b61fbd0f16fd,"BCM 4.0 numset 409, R"
+letters/s,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0410.wav,4c0feb4d65aba422310714c8fd1a37339748746d8b89083b8592a715f5776e02,"BCM 4.0 numset 410, S"
+letters/slash,core,letters-and-phonetics,missing,,,,
+letters/space,core,letters-and-phonetics,missing,,,,
+letters/t,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0411.wav,0bf8f383c96a51c0aa7a2a423c3621ce9ecb2be2641db9b13ea368df59a0ed72,"BCM 4.0 numset 411, T"
+letters/u,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0412.wav,715687db63af18f9783c5cfb333255c5adf642807e9d4c8526df44a0b85be048,"BCM 4.0 numset 412, U"
+letters/v,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0413.wav,c885a56dc87959a796061047db93801caa3bc2c0790f33aa146f53b02ec51b2c,"BCM 4.0 numset 413, V"
+letters/w,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0414.wav,fe69dc328f999feed17ebc3c7c7cc54ff50287c2b1af911ec8e4cbd3432372df,"BCM 4.0 numset 414, W"
+letters/x,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0415.wav,cf68a44ad23713fff08f33491b4e00dc9c254d01f25ebab9b80998047cdf82f2,"BCM 4.0 numset 415, X"
+letters/y,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0416.wav,69133c810bc1c4fed6f72163b8ee982a307cdc7961a7f4937be920e79d99f99f,"BCM 4.0 numset 416, Y"
+letters/z,core,letters-and-phonetics,mapped,bcm4,bcm4-mmf/numset/audio/eap_0417.wav,b4f95de3b11c33a7c2b3621b2f1b54d47945ac2279d586d7af172ef9d6e390c6,"BCM 4.0 numset 417, Z"
+letters/zed,core,letters-and-phonetics,missing,,,,
+location,core,dialplan,missing,,,,
+lowercase,core,dialplan,missing,,,,
+minute,core,dialplan,missing,,,,
+minutes,core,dialplan,missing,,,,
+num-was-successfully,core,dialplan,missing,,,,
+number,core,dialplan,missing,,,,
+number-not-answering,core,dialplan,missing,,,,
+one-moment-please,core,dialplan,missing,,,,
+pbx-invalid,core,dialplan,missing,,,,
+pbx-invalidpark,core,dialplan,missing,,,,
+pbx-parkingfailed,core,dialplan,missing,,,,
+pbx-transfer,core,dialplan,missing,,,,
+phonetic/9_p,core,letters-and-phonetics,missing,,,,
+phonetic/a_p,core,letters-and-phonetics,missing,,,,
+phonetic/b_p,core,letters-and-phonetics,missing,,,,
+phonetic/c_p,core,letters-and-phonetics,missing,,,,
+phonetic/d_p,core,letters-and-phonetics,missing,,,,
+phonetic/e_p,core,letters-and-phonetics,missing,,,,
+phonetic/f_p,core,letters-and-phonetics,missing,,,,
+phonetic/g_p,core,letters-and-phonetics,missing,,,,
+phonetic/h_p,core,letters-and-phonetics,missing,,,,
+phonetic/i_p,core,letters-and-phonetics,missing,,,,
+phonetic/j_p,core,letters-and-phonetics,missing,,,,
+phonetic/k_p,core,letters-and-phonetics,missing,,,,
+phonetic/l_p,core,letters-and-phonetics,missing,,,,
+phonetic/m_p,core,letters-and-phonetics,missing,,,,
+phonetic/n_p,core,letters-and-phonetics,missing,,,,
+phonetic/o_p,core,letters-and-phonetics,missing,,,,
+phonetic/p_p,core,letters-and-phonetics,missing,,,,
+phonetic/q_p,core,letters-and-phonetics,missing,,,,
+phonetic/r_p,core,letters-and-phonetics,missing,,,,
+phonetic/s_p,core,letters-and-phonetics,missing,,,,
+phonetic/t_p,core,letters-and-phonetics,missing,,,,
+phonetic/u_p,core,letters-and-phonetics,missing,,,,
+phonetic/v_p,core,letters-and-phonetics,missing,,,,
+phonetic/w_p,core,letters-and-phonetics,missing,,,,
+phonetic/x_p,core,letters-and-phonetics,missing,,,,
+phonetic/y_p,core,letters-and-phonetics,missing,,,,
+phonetic/z_p,core,letters-and-phonetics,missing,,,,
+please-try-again,core,dialplan,mapped,callpilot5,audio/2501.wav,1db60cd18a42d58c727fe5c507748686d984f09d7252efcac6a6bc568daa0816,"CallPilot 5.0 Canadian voice 2501, speech checked against Asterisk"
+please-try-call-later,core,dialplan,missing,,,,
+pls-hold-while-try,core,dialplan,missing,,,,
+pm-invalid-option,core,dialplan,missing,,,,
+priv-callee-options,core,dialplan,missing,,,,
+priv-callpending,core,dialplan,missing,,,,
+priv-introsaved,core,dialplan,missing,,,,
+priv-recordintro,core,dialplan,missing,,,,
+privacy-incorrect,core,dialplan,missing,,,,
+privacy-prompt,core,dialplan,missing,,,,
+privacy-thankyou,core,dialplan,missing,,,,
+privacy-to-blacklist-last-caller,core,dialplan,missing,,,,
+privacy-unident,core,dialplan,missing,,,,
+queue-callswaiting,core,queues-and-agents,missing,,,,
+queue-holdtime,core,queues-and-agents,missing,,,,
+queue-less-than,core,queues-and-agents,missing,,,,
+queue-minute,core,queues-and-agents,missing,,,,
+queue-minutes,core,queues-and-agents,missing,,,,
+queue-periodic-announce,core,queues-and-agents,missing,,,,
+queue-quantity1,core,queues-and-agents,missing,,,,
+queue-quantity2,core,queues-and-agents,missing,,,,
+queue-reporthold,core,queues-and-agents,missing,,,,
+queue-seconds,core,queues-and-agents,missing,,,,
+queue-thankyou,core,queues-and-agents,missing,,,,
+queue-thereare,core,queues-and-agents,missing,,,,
+queue-youarenext,core,queues-and-agents,missing,,,,
+removed,core,dialplan,missing,,,,
+screen-callee-options,core,dialplan,missing,,,,
+second,core,dialplan,mapped,callpilot5,audio/47105.wav,12953f6d8da6c9637ffc50a100aa000c1f097b48c1f9f672f14f0e6b68c12458,"CallPilot 5.0 Canadian voice 47105, speech checked against Asterisk"
+seconds,core,dialplan,missing,,,,
+silence/1,core,silence,stock,,,,
+silence/10,core,silence,stock,,,,
+silence/2,core,silence,stock,,,,
+silence/3,core,silence,stock,,,,
+silence/4,core,silence,stock,,,,
+silence/5,core,silence,stock,,,,
+silence/6,core,silence,stock,,,,
+silence/7,core,silence,stock,,,,
+silence/8,core,silence,stock,,,,
+silence/9,core,silence,stock,,,,
+simul-call-limit-reached,core,dialplan,missing,,,,
+something-terribly-wrong,core,dialplan,missing,,,,
+sorry,core,dialplan,missing,,,,
+sorry-youre-having-problems,core,dialplan,missing,,,,
+speed-dial,core,dialplan,missing,,,,
+speed-dial-empty,core,dialplan,missing,,,,
+spy-agent,core,dialplan,missing,,,,
+spy-console,core,dialplan,missing,,,,
+spy-dahdi,core,dialplan,missing,,,,
+spy-h323,core,dialplan,missing,,,,
+spy-iax,core,dialplan,missing,,,,
+spy-iax2,core,dialplan,missing,,,,
+spy-jingle,core,dialplan,missing,,,,
+spy-local,core,dialplan,missing,,,,
+spy-mgcp,core,dialplan,missing,,,,
+spy-misdn,core,dialplan,missing,,,,
+spy-mobile,core,dialplan,missing,,,,
+spy-nbs,core,dialplan,missing,,,,
+spy-sip,core,dialplan,missing,,,,
+spy-skinny,core,dialplan,missing,,,,
+spy-unistim,core,dialplan,missing,,,,
+spy-usbradio,core,dialplan,missing,,,,
+spy-zap,core,dialplan,missing,,,,
+ss-noservice,core,dialplan,missing,,,,Related DMS treatment available at nortel/ca/number-not-in-service. The longer wording stays under its own name.
+telephone-number,core,dialplan,missing,,,,
+time,core,dialplan,missing,,,,
+to-call-this-number,core,dialplan,missing,,,,
+to-extension,core,dialplan,missing,,,,
+to-listen-to-it,core,dialplan,missing,,,,
+to-rerecord-it,core,dialplan,missing,,,,
+transfer,core,dialplan,missing,,,,
+tt-allbusy,core,dialplan,missing,,,,
+tt-monkeys,core,dialplan,missing,,,,
+tt-monkeysintro,core,dialplan,missing,,,,
+tt-somethingwrong,core,dialplan,missing,,,,
+tt-weasels,core,dialplan,missing,,,,
+unidentified-no-callback,core,dialplan,missing,,,,
+uppercase,core,dialplan,missing,,,,
+vm-Cust1,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Cust2,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Cust3,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Cust4,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Cust5,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Family,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Friends,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-INBOX,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Old,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-Urgent,core,voicemail,mapped,callpilot5,audio/134301.wav,af4757bc2e80410c64136777e7470ab6f4557c4d0c30141a8e9ee9a21d109c28,"CallPilot 5.0 Canadian voice 134301, speech checked against Asterisk"
+vm-Work,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-advopts,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-and,core,voicemail,mapped,callpilot5,audio/34405.wav,b76a28652ba8b916916f753cd9284a8cd59604738209e6e712a4cc4c6d7e8166,"CallPilot 5.0 Canadian voice 34405, speech checked against Asterisk"
+vm-calldiffnum,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-changeto,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-delete,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-deleted,core,voicemail,mapped,callpilot5,audio/172501.wav,4f070bd053bfdb5f8052229a84a78c4c9b35224838803b51c7c02ab77a0078f1,"CallPilot 5.0 Canadian voice 172501, speech checked against Asterisk"
+vm-dialout,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-duration,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-enter-num-to-call,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-extension,core,voicemail,mapped,callpilot5,audio/54105.wav,cc6e893b3f8a5797b8a55a4145a6e42d93743aebf86bc8cd19f0ba0073f903fa,"CallPilot 5.0 Canadian voice 54105, speech checked against Asterisk"
+vm-first,core,voicemail,mapped,callpilot5,audio/47005.wav,ea0ac0422bf71de6ab6e9ab17f91420c24d97f796756bd8332dcf6eff8728955,"CallPilot 5.0 Canadian voice 47005, speech checked against Asterisk"
+vm-for,core,voicemail,mapped,callpilot5,audio/173805.wav,dff56ef01b1e4fe2f5177984de444d01d3eabc8c67eb5f741ca4aab5ff2b00cc,"CallPilot 5.0 Canadian voice 173805, speech checked against Asterisk"
+vm-forward,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-forward-multiple,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-forwardoptions,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-from,core,voicemail,mapped,callpilot5,audio/129005.wav,e2d5ce20c03c8dc24ddd4f9947f4c5d1054af846928f1e77a45097ded04ab3a5,"CallPilot 5.0 Canadian voice 129005, speech checked against Asterisk"
+vm-from-extension,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-from-phonenumber,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-goodbye,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-helpexit,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-incorrect,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-incorrect-mailbox,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-instructions,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-intro,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-invalid-password,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-invalidpassword,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-isonphone,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-isunavail,core,voicemail,mapped,bcm4,bcm4-en-us/audio/phrase_0011.wav,7b7999b8edaf626b6adffcdc7d3c9e58ec12198858cfcd5047ef4b3f92623506,"BCM 4.0 American English 11, Is not available at the moment"
+vm-last,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-leavemsg,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-login,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-mailboxfull,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-marked-nonurgent,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-marked-urgent,core,voicemail,mapped,bcm4,bcm4-en-us/audio/phrase_0025.wav,a42f7ef7a56b4e13ef466ab6b985cfb461dff38f3d48b7abb4c8c77427395802,"BCM 4.0 bcm4-en-us 25, Message marked urgent."
+vm-message,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-messages,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-minutes,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-mismatch,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-msgforwarded,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-msginstruct,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-msgsaved,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-newpassword,core,voicemail,mapped,callpilot5,audio/60501.wav,275db1aa74c75b4c25839de6586cb27ef4d02ced16a630966c25a341206b7afc,"CallPilot 5.0 Canadian voice 60501, speech checked against Asterisk (says number sign)"
+vm-newuser,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-next,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-no,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-nobodyavail,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-nobox,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-nomore,core,voicemail,mapped,bcm4,bcm4-en-us/audio/phrase_0050.wav,7925dd097b0d30b92ccb03a55151e3d09c206f3b5f70fef2b2917f59567cec2a,"BCM 4.0 American English 50, End of messages"
+vm-nonumber,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-num-i-have,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-onefor,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-onefor-full,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-options,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-opts,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-opts-full,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-passchanged,core,voicemail,mapped,callpilot5,audio/60601.wav,a2495552384bd06b893acd2f6c6e418ca65f9e5f87505e0e15310c4bfe180bda,"CallPilot 5.0 Canadian voice 60601, speech checked against Asterisk (says password in singular)"
+vm-password,core,voicemail,mapped,callpilot5,audio/17501.wav,f3014735cfaaa743e8f4adc84ce7205451d688dce0f5cd96a95f70fe83028541,"CallPilot 5.0 Canadian voice 17501, speech checked against Asterisk"
+vm-pls-try-again,core,voicemail,mapped,callpilot5,audio/2501.wav,1db60cd18a42d58c727fe5c507748686d984f09d7252efcac6a6bc568daa0816,"CallPilot 5.0 Canadian voice 2501, speech checked against Asterisk"
+vm-press,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-prev,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-reachoper,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-rec-busy,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-rec-name,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-rec-temp,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-rec-unv,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-received,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-record-prepend,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-reenterpassword,core,voicemail,mapped,callpilot5,audio/60701.wav,d54f0c70ab1eedc3c1b09b02bf61b58cba833f6d60de9d2bcbc53b54e926f634,"CallPilot 5.0 Canadian voice 60701, speech checked against Asterisk (says number sign)"
+vm-repeat,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-review,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-review-nonurgent,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-review-urgent,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-saved,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-savedto,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-savefolder,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-savemessage,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-saveoper,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-sorry,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-star-cancel,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-starmain,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tempgreetactive,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tempgreeting,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tempgreeting2,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tempremoved,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-then-pound,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-theperson,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tmpexists,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tocallback,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tocallnum,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tocancel,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tocancelmsg,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-toenternumber,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-toforward,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tohearenv,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tomakecall,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-tooshort,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-toreply,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-torerecord,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-undelete,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-undeleted,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-unknown-caller,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-whichbox,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+vm-youhave,core,voicemail,missing,,,,Compare wording and menu actions against CallPilot when samples arrive.
+with,core,dialplan,missing,,,,
+you-entered,core,dialplan,missing,,,,
+your,core,dialplan,missing,,,,
+nortel/ca/all-circuits-busy,extra,treatments,mapped,edram,estd0aa/bank_00/phrase_40.wav,9f08203e034955b52a7a82730ccede909c7c1655b6e212c14de925759e20ade2,ESTD0AA NCA full treatment
+nortel/ca/call-did-not-go-through,extra,treatments,mapped,edram,estd0aa/bank_00/phrase_41.wav,389c60d0ca5d477b606960d400896ded57fbf60eb017f5e0d1d32fcddf838b04,ESTD0AA ROA full treatment
+nortel/ca/dial-one-for-long-distance,extra,treatments,mapped,edram,estd0aa/bank_00/phrase_46.wav,0d3aa040ff4052da15fdcf39fa387f2dbd6a5df61f59dbb3e8d754dacb8a1432,ESTD0AA MCL full treatment
+nortel/ca/dial-without-one,extra,treatments,mapped,edram,estd0aa/bank_00/phrase_45.wav,7bda9742682645a5692f8032db736eb3efde4a45c58adb8e9cfe327cbdb26a0b,ESTD0AA MCA full treatment
+nortel/ca/number-not-in-service,extra,treatments,mapped,edram,estd0aa/bank_00/phrase_44.wav,8d87f1ca21cb1a0e0a7e2c46de79f8b0dd6166606b5eea2fbbc7a1f7c9a8a99e,ESTD0AA VDN full treatment
+nortel/ca/receiver-off-hook,extra,treatments,mapped,edram,estd0aa/bank_00/phrase_43.wav,baa8f64d8537fcaf40470b2d50ab9a83aa00725e0865e1adb72f3cf8670a8c46,ESTD0AA ROH full treatment
+nortel/ca/vacant-code,extra,treatments,mapped,edram,estd0aa/bank_00/phrase_42.wav,e0563a42f3f842937b7425e1a412863f79fd3b232ec73fc63345da143a8c9c34,ESTD0AA VCA full treatment
+nortel/class/call-blocking-off,extra,class,mapped,edram,acmsc0ge/bank_00/phrase_05.wav,52ed1fdcf9dd046964ee062f588ff7980d1b07c7a6a04569b46d56b1f207b353,"ACMSC0GE bank 0, phrase 5 (catalog-checked)"
+nortel/class/call-blocking-on,extra,class,mapped,edram,acmsc0ge/bank_00/phrase_04.wav,e0c69fd41c3f9c3f34d22018b9b26b996eb85b2d3a5c2078c2d2dbc89c0330ea,"ACMSC0GE bank 0, phrase 4 (catalog-checked)"
+nortel/class/call-received-on,extra,class,mapped,edram,eardt0ja/bank_01/phrase_05.wav,11fc418adf87aa744d3d7f23a146941494b11c551dc1a1bfcc36d03810f9d9a5,"EARDT0JA bank 1, phrase 5 (catalog-checked)"
+nortel/class/hang-up-now,extra,class,mapped,edram,eardt0ja/bank_01/phrase_09.wav,c4ab955d5e58be425ec0b9040ed138452b99fe17311a608c6aac1adeed96e206,"EARDT0JA bank 1, phrase 9 (catalog-checked)"
+nortel/class/last-caller-unknown,extra,class,mapped,edram,ecls10aj/bank_00/phrase_11.wav,c72ff8a69761291c4f0bdc167ef6d37291d449850b89173a04af7b54ea9b5664,"ECLS10AJ bank 0, phrase 11 (catalog-checked)"
+nortel/class/last-number-private-with-date,extra,class,mapped,edram,eardt0ja/bank_01/phrase_06.wav,927becbc444c666858679bd93d9ec478facfb0376bdff3365d8ffd8e0297d180,"EARDT0JA bank 1, phrase 6 (catalog-checked)"
+nortel/class/last-number-that-called,extra,class,mapped,edram,eardt0ja/bank_01/phrase_04.wav,25cf03ecedd7725666f85686e6b783d7c2f3ceb7b00d6a133cf864918b4fd8c8,"EARDT0JA bank 1, phrase 4 (catalog-checked)"
+nortel/class/preferred-forwarding-off,extra,class,mapped,edram,acmsc0ge/bank_00/phrase_09.wav,f3091621e1cf84d15c1464e8aafcd943d84b198cc0cc20b3522aac65f22bc77e,"ACMSC0GE bank 0, phrase 9 (catalog-checked)"
+nortel/class/preferred-forwarding-on,extra,class,mapped,edram,acmsc0ge/bank_00/phrase_08.wav,f9d4a0d15919a5b334af3bfbef47b020c1cdda165470d18f1f87202d49fa6ddc,"ACMSC0GE bank 0, phrase 8 (catalog-checked)"
+nortel/time/21,extra,call-return,mapped,edram,eardt0jb/bank_00/phrase_48.wav,39b4c89ab280f5f538cf512c8235b9e3d5b35b255c7d81ea6847b5c947665623,"EARDT0JB spoken number 21, Nortel p. 17-70"
+nortel/time/22,extra,call-return,mapped,edram,eardt0jb/bank_00/phrase_49.wav,ff2e361b64f13f220d6a23b13ef41da932ff7d54f9858cfba0945d98d6e0838e,"EARDT0JB spoken number 22, Nortel p. 17-70"
+nortel/time/23,extra,call-return,mapped,edram,eardt0jb/bank_00/phrase_50.wav,1509a21bdc93eca67e520bc09007b2459c15a22d979fc4ade070f5b1e2139d8b,"EARDT0JB spoken number 23, Nortel p. 17-70"
+nortel/time/24,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_04.wav,12bce7a65732456d21cd1c3558d7e3a4ff76c35ad92d1afa1a71eb5109f5c713,"EARDT0JB spoken number 24, Nortel p. 17-71"
+nortel/time/25,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_05.wav,416d81ffa5adbbbf61306341fa9a1e951dd7ff7dd2d6bfa05fdc2deaf4a1ff5c,"EARDT0JB spoken number 25, Nortel p. 17-71"
+nortel/time/26,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_06.wav,8c3ef72b8c407ce2edace69e845bc8472abdaccce64bc440c3aaaf568899a9b5,"EARDT0JB spoken number 26, Nortel p. 17-71"
+nortel/time/27,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_07.wav,58f266442a8d9f97d4adae09b79f284e8f7aca4e84e34fe627bea517f6580602,"EARDT0JB spoken number 27, Nortel p. 17-71"
+nortel/time/28,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_08.wav,396e4a3d02c6e5fc39ce2d1bf1c4b2c32aa64842572987b000d0351c9a4c7d13,"EARDT0JB spoken number 28, Nortel p. 17-71"
+nortel/time/29,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_09.wav,3d95b177f4ca8f21991e4b5161a989d28c9cee597b52aeaf670c990d624ba584,"EARDT0JB spoken number 29, Nortel p. 17-71"
+nortel/time/31,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_11.wav,6e93036f993488597fc150bcc282acdc06452db7536e508cc46188e7e24729b6,"EARDT0JB spoken number 31, Nortel p. 17-71"
+nortel/time/32,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_12.wav,4f83392fa2c76993088bce554fdec2aa27159f27b4dd46aa5578a6ddd7f78701,"EARDT0JB spoken number 32, Nortel p. 17-71"
+nortel/time/33,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_13.wav,5a6ba7918759896c77a896a29481f3f2b0ef507a677cbed1e3a81afd99ec4620,"EARDT0JB spoken number 33, Nortel p. 17-71"
+nortel/time/34,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_14.wav,85d0f22ea823da478964b1897da609affc159f43e24f2958a4332551e3663356,"EARDT0JB spoken number 34, Nortel p. 17-71"
+nortel/time/35,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_15.wav,251b160d992a5b11ef7d7328ef8841114e9dc76aa12104d95fcc9509406dd701,"EARDT0JB spoken number 35, Nortel p. 17-71"
+nortel/time/36,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_16.wav,8a092d82d00cd7c114082118ed41d520bd280cc920126afa97fc06b4f9c3bd93,"EARDT0JB spoken number 36, Nortel p. 17-71"
+nortel/time/37,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_17.wav,6b83f0ee4d0137ae0eaa7de45dfc765be5632d0d5788b033268055fef9c24cc7,"EARDT0JB spoken number 37, Nortel p. 17-71"
+nortel/time/38,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_18.wav,bb1060dde7f1a5056108e98acd4042dddeac772714c59581006bc9333324a3db,"EARDT0JB spoken number 38, Nortel p. 17-71"
+nortel/time/39,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_19.wav,1bdb95bc43f30a8f50b372ccafcc1379b4b24ef2ac7167da74fdaf5b0360f71a,"EARDT0JB spoken number 39, Nortel p. 17-72"
+nortel/time/41,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_21.wav,5e08eb56e1253d04798a2d25d3ed6c2627d6cad64e2888bf406d14921b4f1313,"EARDT0JB spoken number 41, Nortel p. 17-72"
+nortel/time/42,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_22.wav,3cc32c31d24e13aa1782e7ae9860926a3506bd312ea41f9d7912e228e83ce928,"EARDT0JB spoken number 42, Nortel p. 17-72"
+nortel/time/43,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_23.wav,62a4ab14d4cec607d54f4741adb5637a0de0224a84d3c1d3c6e996220a830f4b,"EARDT0JB spoken number 43, Nortel p. 17-72"
+nortel/time/44,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_24.wav,c1fa22544c19a8f4de2bab9426be9ccb3c8962b9aa978c91bf9b329f329d5ebd,"EARDT0JB spoken number 44, Nortel p. 17-72"
+nortel/time/45,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_25.wav,052a153b9092bc085b95c6dbcfc48f2e5d65a9676dbfbaa0972127e66aec9d50,"EARDT0JB spoken number 45, Nortel p. 17-72"
+nortel/time/46,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_26.wav,6d5d1787141c35ea625228de6947a0a9e27bc2e579fd7b83b0bd356acea0dbc0,"EARDT0JB spoken number 46, Nortel p. 17-72"
+nortel/time/47,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_27.wav,e4c003151b860bdc705b2950e3426541796485150d067d1b94871e99f82f3a92,"EARDT0JB spoken number 47, Nortel p. 17-72"
+nortel/time/48,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_28.wav,e20d6f174cad01e2da12e194261fb067e4cf63ff0e2de3d5184e43d3ef6fba60,"EARDT0JB spoken number 48, Nortel p. 17-72"
+nortel/time/49,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_29.wav,91608bd8295276378d709010a5178e3b89609fc25035a34499649dd1575d98d5,"EARDT0JB spoken number 49, Nortel p. 17-72"
+nortel/time/51,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_31.wav,5d6608d4b306bf33e2b1b6983444397cdc0b6b38fc893f900534c9f07e5f6abe,"EARDT0JB spoken number 51, Nortel p. 17-72"
+nortel/time/52,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_32.wav,df739b64876810fcb20308b88152e06b5a7a2c52de183a67cedabec1e5c71681,"EARDT0JB spoken number 52, Nortel p. 17-72"
+nortel/time/53,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_33.wav,4a4fd7af56166f759a3ed74f30604837064e6fc345c5701ed27f62038bbd5ccb,"EARDT0JB spoken number 53, Nortel p. 17-72"
+nortel/time/54,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_34.wav,27d170e5562f1bc02b487c13bef78869773f6ceb67b2007869ab476d51dd085c,"EARDT0JB spoken number 54, Nortel p. 17-72"
+nortel/time/55,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_35.wav,0d6352ebb2c43b6f978c287dfe47dd5aefd1887d0b5cb39ee606d71644d41db8,"EARDT0JB spoken number 55, Nortel p. 17-72"
+nortel/time/56,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_36.wav,c34f4a385b8c77bc4b6f3b6ac6e00a3ee95e73823d3e17603e75126c07d5016b,"EARDT0JB spoken number 56, Nortel p. 17-72"
+nortel/time/57,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_37.wav,c50f65f18c3529fc5344d5d5999d517d410d7d110ef6db2a9af6732b972c02bd,"EARDT0JB spoken number 57, Nortel p. 17-72"
+nortel/time/58,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_38.wav,87fbd07e1217ff62b0ddd203876c53dd863ff3f7db0806e5846c815171202222,"EARDT0JB spoken number 58, Nortel p. 17-72"
+nortel/time/59,extra,call-return,mapped,edram,eardt0jb/bank_01/phrase_39.wav,07e559d57367b36cd8642246069e657f78cb1921c0a6fc3412bc0ea811b4f87c,"EARDT0JB spoken number 59, Nortel p. 17-72"
+nortel/tones/calling-card-bong,extra,tones,mapped,edram,eaabs0hc/bank_00/phrase_04.wav,1c4f3655afb399e6256dcfec9ea176dd5e682a0b85dc557f0952ebeaa48dc773,"EAABS0HC bank 0 phrase 4, listener identification"
+nortel/tones/howler,extra,tones,mapped,edram,mwttone/tone-bank/tone_10.wav,9b2157e557b709c8cb426d099c6563c940122b2593c79f4dc30df97ec1feb3aa,MWTTONE sampled receiver-off-hook tone
+nortel/tones/milliwatt,extra,tones,mapped,edram,mwttone/tone-bank/tone_09.wav,14513b605e7a369e937d5e8535fe5307ad7dac454e995d8c5aa3d027dcbbb6e6,MWTTONE sampled 1004 Hz reference
+nortel/tones/sit-01,extra,tones,mapped,edram,estd0aa/bank_00/phrase_08_sit_01.wav,a9ff7cabe51cb150ef1b96fb5ec3bfc391f6f78f7c613e792006ef4f2b7dd902,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-02,extra,tones,mapped,edram,estd0aa/bank_00/phrase_09_sit_02.wav,47d94dc19879fefb6fb7f40f6a93c18067d496a3c22962738460169fcc3609c9,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-03,extra,tones,mapped,edram,estd0aa/bank_00/phrase_10_sit_03.wav,b661b06a24ba71c35cb831aacd99364541e13ecbcc8d0765064ba9d6c123392a,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-04,extra,tones,mapped,edram,estd0aa/bank_00/phrase_11_sit_04.wav,f58ad3f0080cc73bffd8d7ce9aaeb42e54ee9222b2a9887aea157c38013abcb7,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-05,extra,tones,mapped,edram,estd0aa/bank_00/phrase_12_sit_05.wav,fbb2e35412893366d87d8aa655c2ddb6fcd4d4c5009a7c86f5589bd9e49cb837,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-06,extra,tones,mapped,edram,estd0aa/bank_00/phrase_13_sit_06.wav,691e54ec7d5e7e56d63fa4cdd10b544e88fd1e29e53f07d984cf9df9fb71441e,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-07,extra,tones,mapped,edram,estd0aa/bank_00/phrase_14_sit_07.wav,5a4e78ef5596369bd8f82d9962823a628851eb03773a4e63d1418319ab571fb7,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-08,extra,tones,mapped,edram,estd0aa/bank_00/phrase_15_sit_08.wav,d1da724ea2bb8b571e79446a06d8b168166083389a049b2be0b14b74f0d8bdd2,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-09,extra,tones,mapped,edram,estd0aa/bank_00/phrase_16_sit_09.wav,cfc2c3b395c1dc429011eef136737137c448c9674a3f4765930a39b7dbc864b3,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-10,extra,tones,mapped,edram,estd0aa/bank_00/phrase_17_sit_10.wav,f111c072897a32bb3514b1f80274d3f999695cbe6ac77b363f0ec35829a8c3c0,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-11,extra,tones,mapped,edram,estd0aa/bank_00/phrase_18_sit_11.wav,3f4429bd5321e72334d4bf1c049ffc11f03f0ae1966a2b1da4fde946869a468e,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-12,extra,tones,mapped,edram,estd0aa/bank_00/phrase_19_sit_12.wav,31af412cc865d9a13f73ead985c7fc688d95c355ae1d48be323efe3ca1b47598,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-13,extra,tones,mapped,edram,estd0aa/bank_00/phrase_20_sit_13.wav,8c8a9f70baaa8b88da957b25f8e4bf269477250877402dbcabab163f9e6667a0,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-14,extra,tones,mapped,edram,estd0aa/bank_00/phrase_21_sit_14.wav,4f0565c3ceff19e61af933b23f408e942bdb04d62f865df3856e542f612b816d,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-15,extra,tones,mapped,edram,estd0aa/bank_00/phrase_22_sit_15.wav,6283cd4909c8ea88a627cdb81616cabbc1f6d6e5d27a568d7495b8c70c14f7ed,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-16,extra,tones,mapped,edram,estd0aa/bank_00/phrase_23_sit_16.wav,bb58508b6ea93363083c89a35ec930069bdea6588ba8f8f625e0cdf52653e5a6,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-17,extra,tones,mapped,edram,estd0aa/bank_00/phrase_24_sit_17.wav,588737d74302637474fc974dcd16c083a2eea57eed15e3cf7889a9e94318f1b5,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-18,extra,tones,mapped,edram,estd0aa/bank_00/phrase_25_sit_18.wav,1e2a034e130997e2ca50e471342b36f2eba79c856405fba74acbc1d322aec11b,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-19,extra,tones,mapped,edram,estd0aa/bank_00/phrase_26_sit_19.wav,b4ead85e05c9c72518f64d576884d05370e2e122e89f10ca721fa74cbda67e99,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-20,extra,tones,mapped,edram,estd0aa/bank_00/phrase_27_sit_20.wav,23304adbcce56d8dbefaf89d5b7c4c8b5dff2063541cf6848c8960a2736b100c,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-21,extra,tones,mapped,edram,estd0aa/bank_00/phrase_28_sit_21.wav,52bbd8a894d997d750156291565ba5070c375acf85d930d1edd0bf4f5f555835,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-22,extra,tones,mapped,edram,estd0aa/bank_00/phrase_29_sit_22.wav,f34bde2e6c273147e030406186fb19f453825dd0ed325fc5db9b08a5075006ef,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-23,extra,tones,mapped,edram,estd0aa/bank_00/phrase_30_sit_23.wav,a3689b1a56e7884d0e815a6901c429fa719412eb1c45d74645e79cebba60e005,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-24,extra,tones,mapped,edram,estd0aa/bank_00/phrase_31_sit_24.wav,6fed0c1f1616a4e1fab2fd3dc831cb445a82172961c9233ca34e9d3dc9d8c6b0,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-25,extra,tones,mapped,edram,estd0aa/bank_00/phrase_32_sit_25.wav,66a640a65ca619e13ca289292a99bab480fe6f70384b2e5c723f6aee98377499,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-26,extra,tones,mapped,edram,estd0aa/bank_00/phrase_33_sit_26.wav,2c576da1b015df167eba8ede53b75e5cd1bd7cb8b9a084d0a25ee8e7edaa8b26,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-27,extra,tones,mapped,edram,estd0aa/bank_00/phrase_34_sit_27.wav,2f77e911f380fc37f9a493efda905b387b85d36875968e43aa3860a451139093,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-28,extra,tones,mapped,edram,estd0aa/bank_00/phrase_35_sit_28.wav,f5450c187155e7531d177d9fde1ad791af7cb23e172ee707caf1c95f04e14ad2,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-29,extra,tones,mapped,edram,estd0aa/bank_00/phrase_36_sit_29.wav,7acabb4be315531d87ce0036eb3360c75693a09d7a5ce32a4c309be88c64beba,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-30,extra,tones,mapped,edram,estd0aa/bank_00/phrase_37_sit_30.wav,3382088f9849162307d865e5f3563ed520c5d09382827e1b7d3c3d03cec8ce8c,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-31,extra,tones,mapped,edram,estd0aa/bank_00/phrase_38_sit_31.wav,25eea4b9894f2f5cd444e7bca5ee0e764ba9d9d5112267e63259d3e533c14ce7,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/tones/sit-32,extra,tones,mapped,edram,estd0aa/bank_00/phrase_39_sit_32.wav,622f2b164661b68c08467a1916ba0dbfccc29a67b113cb23492f79b5485c8ce4,"ESTD0AA bank 0, stored samples and menu timing"
+nortel/us/all-circuits-busy,extra,treatments,mapped,edram,astd0ab/bank_00/phrase_44.wav,fd3d00dd2097adcf8980b9df97c816ab6f23583c835278a9251af3aa5b7039cf,"ASTD0AB ATB, Nortel p. 17-36"
+nortel/us/call-did-not-go-through,extra,treatments,mapped,edram,astd0ab/bank_00/phrase_43.wav,3ca4b63f34c2fdb14c7022538fdd81746d61b01c8235fbdc58f4148956a95f38,"ASTD0AB PDR, Nortel p. 17-36"
+nortel/us/dial-one,extra,treatments,mapped,edram,astd0ab/bank_00/phrase_45.wav,bd1231ca32d6ccec8b20242ccd9cf593e0e44585d4d53800838bea6562457826,"ASTD0AB P1ND, Nortel p. 17-36"
+nortel/us/dial-without-one,extra,treatments,mapped,edram,astd0ab/bank_00/phrase_48.wav,0adc49939e77715c54b48ba84f4e96f492cccd3b5eedecb28008b17a32287d25,"ASTD0AB P1D, Nortel p. 17-36"
+nortel/us/facility-trouble,extra,treatments,mapped,edram,astd0ab/bank_00/phrase_46.wav,e1e0d80c68830febb0bc0d30546541c3ca93282067bd06016070e395370acf30,"ASTD0AB VDCF, Nortel p. 17-36"
+nortel/us/receiver-off-hook,extra,treatments,mapped,edram,astd0ab/bank_00/phrase_41.wav,1d69c388bed3c0ce7240d69d29a69e32f2f0e8803a45db4a1750fae131ba0ecf,"ASTD0AB ROH, Nortel p. 17-36"
+nortel/us/vacant-code,extra,treatments,mapped,edram,astd0ab/bank_00/phrase_40.wav,94f66718c7dd1ee61b57707c1fd0f311eb0ead42ac1790a56052bd6e6eeb34d3,"ASTD0AB VCA, Nortel p. 17-36"
