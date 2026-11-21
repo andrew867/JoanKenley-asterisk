@@ -1,5 +1,7 @@
 # JoanKenley-asterisk
 
+**First alpha** · [v0.1.0-alpha.1](https://github.com/andrew867/JoanKenley-asterisk/releases/tag/v0.1.0-alpha.1) · [Release notes](CHANGELOG.md)
+
 Asterisk English prompts assembled from Nortel DMS, CallPilot 5.0 Canadian English and BCM 4.0 recordings. The repository name is the project title. The source and PCM hash are recorded per clip. Individual voice credits remain unverified.
 
 ## Coverage
