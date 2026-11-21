@@ -8,8 +8,8 @@ First tagged release of the Asterisk prompt map and local sound-pack builder for
 
 ## Try it
 
-Download **Source code (zip)** and follow the README to assemble the inputs. A full build uses the EDRAM WAV archive, locally decoded CallPilot and BCM files, and the official Asterisk 1.6.1 WAV archive. A smaller build can rely on Asterisk's installed English fallback.
+Download [en_CA_nortel.zip](https://github.com/andrew867/JoanKenley-asterisk/releases/download/v0.1.0-alpha.1/en_CA_nortel.zip), extract it, and copy `en_CA_nortel` into the Asterisk sounds directory. Set `CHANNEL(language)=en_CA_nortel` on a test channel. The ZIP includes the per-file source manifest and stock Asterisk audio credits. The source archive contains the builder and mappings.
 
-The reference build verified 1,986 audio files across three formats. Live calls and individual speaker credits remain unverified. Generated audio packs are built locally from source recordings.
+The reference build verified 1,986 audio files across three formats. Live calls and individual speaker credits remain unverified.
 
 [Build guide](README.md) · [Prompt checklist](prompts.csv) · [Example dialplan](examples/extensions.conf)
